@@ -1,7 +1,7 @@
 
 # Termos e Condições de Uso - Convertool
 
-Última Atualização: [DATA]
+Última Atualização: [10 de Dezembro de 2024]
 
 ---
 
@@ -84,7 +84,7 @@ O Usuário renuncia explicitamente ao direito de se manifestar publicamente sobr
 Estes Termos são regidos pelas leis da República Federativa do Brasil.
 
 ### 9.2. Jurisdição Exclusiva:
-Qualquer disputa será resolvida exclusivamente nos tribunais da cidade de **[SUA CIDADE]**, Brasil.
+Qualquer disputa será resolvida exclusivamente nos tribunais da cidade de **[Campina Grande, Paraíba]**, Brasil.
 
 ### 9.3. Usuários Internacionais:
 Usuários fora do Brasil concordam em submeter-se à jurisdição brasileira e às leis locais.
@@ -104,7 +104,7 @@ Estes Termos constituem o acordo completo entre o Usuário e os desenvolvedores 
 ---
 
 ## 11. Contato
-Para dúvidas ou mais informações, entre em contato pelo e-mail: **[SEU_EMAIL]**.
+Para dúvidas ou mais informações, entre em contato pelo e-mail: **[samirtf.dev@gmail.com]**.
 
 ---
 
