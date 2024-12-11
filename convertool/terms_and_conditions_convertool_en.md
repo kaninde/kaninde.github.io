@@ -1,7 +1,7 @@
 
 # Terms and Conditions of Use - Convertool
 
-Last Update: [DATE]
+Last Update: [December 10, 2024]
 
 ---
 
@@ -84,7 +84,7 @@ The User explicitly waives the right to publicly comment on legal proceedings, u
 These Terms are governed by the laws of the Federative Republic of Brazil.
 
 ### 9.2. Exclusive Jurisdiction:
-Any dispute will be resolved exclusively in the courts of the city of **[YOUR CITY]**, Brazil.
+Any dispute will be resolved exclusively in the courts of the city of **[Campina Grande, Paraíba]**, Brazil.
 
 ### 9.3. International Users:
 Users outside Brazil agree to submit to Brazilian jurisdiction and local laws.
@@ -104,7 +104,7 @@ These Terms constitute the complete agreement between the User and the Applicati
 ---
 
 ## 11. Contact
-For questions or further information, contact us via email: **[YOUR_EMAIL]**.
+For questions or further information, contact us via email: **[samirtf.dev@gmail.com]**.
 
 ---
 
