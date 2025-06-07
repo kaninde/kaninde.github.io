@@ -1,22 +1,24 @@
+# Sobre o NutriSync
 
-# Sobre o Convertool
+Bem-vindo ao **NutriSync**, a ferramenta essencial para profissionais de nutrição clínica que precisam gerenciar estoques e otimizar pedidos de suprimentos em consultórios, atendimentos domiciliares, hospitais ou instituições de longa permanência.
 
-Bem-vindo ao **Convertool**, a ferramenta definitiva para conversões de unidades projetada para simplificar o seu dia a dia. Com uma interface elegante e fácil de usar, o Convertool ajuda você a converter uma ampla variedade de unidades de forma eficiente e precisa.
+Com uma interface limpa e profissional, o NutriSync oferece recursos poderosos para garantir o controle preciso dos estoques e decisões inteligentes de compra.
 
 ---
 
 ## Funcionalidades
 
-- **Suporte Abrangente de Unidades:** Converta comprimento, peso, volume, temperatura e muito mais.
-- **Design Intuitivo:** Cartões minimalistas tornam a navegação e o uso simples.
-- **Atualizações em Tempo Real:** Alterações em uma unidade atualizam automaticamente as outras.
-- **Compatibilidade Global:** Suporte para localização em vários idiomas.
+- **Controle Inteligente de Estoque:** Acompanhe os níveis de fórmulas enterais, suplementos e insumos por paciente.
+- **Geração Automática de Pedidos (PDF):** Crie ordens de compra prontas para impressão com base no consumo e no estoque disponível.
+- **Previsões e Alertas:** Antecipe o fim dos produtos com base em padrões personalizados de consumo.
+- **Acesso Offline:** Trabalhe sem internet e sincronize automaticamente ao se reconectar.
+- **Experiência Localizada:** Disponível em vários idiomas para acessibilidade global.
 
 ---
 
 ## Nossa Missão
 
-Nosso objetivo é oferecer uma experiência perfeita e confiável para usuários em todo o mundo, garantindo que a conversão de unidades não seja mais um problema.
+Nossa missão é apoiar um cuidado nutricional seguro e eficiente, simplificando a logística do gerenciamento de suprimentos — para que os profissionais possam focar no que realmente importa: a saúde do paciente.
 
 ---
 
@@ -27,11 +29,17 @@ Nosso objetivo é oferecer uma experiência perfeita e confiável para usuários
 
 ---
 
-## Contato
+## Aviso
 
-Para suporte, sugestões ou feedback, entre em contato conosco em:  
-**E-mail:** suporte@convertool.com
+*Todos os cálculos e previsões são baseados em dados fornecidos pelo usuário. Sempre verifique informações críticas antes de tomar decisões clínicas.*
 
 ---
 
-Obrigado por escolher o **Convertool**. Esperamos que você aproveite o uso do aplicativo!
+## Contato
+
+Para suporte, sugestões ou feedback, entre em contato com:  
+**Email:** support@nutrisync.app
+
+---
+
+Obrigado por confiar no **NutriSync**. É uma honra fazer parte da sua jornada de cuidados.
