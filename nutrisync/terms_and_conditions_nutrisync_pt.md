@@ -1,6 +1,6 @@
 # Termos e Condições de Uso - NutriSync
 
-Última Atualização: [DATA]
+Última Atualização: [DATE]
 
 ---
 
