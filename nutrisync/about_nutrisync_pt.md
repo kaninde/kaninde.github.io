@@ -25,7 +25,7 @@ Nossa missão é apoiar um cuidado nutricional seguro e eficiente, simplificando
 ## Versão
 
 **Versão do App:** 1.0.0  
-**Última Atualização:** [DATA]
+**Última Atualização:** [DATE]
 
 ---
 
