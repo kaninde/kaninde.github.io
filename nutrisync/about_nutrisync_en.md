@@ -1,22 +1,24 @@
+# About NutriSync
 
-# About Convertool
+Welcome to **NutriSync**, the essential tool for clinical nutrition professionals who need to manage inventory and streamline supply orders in private practice, home care, hospitals, or long-term care.
 
-Welcome to **Convertool**, the ultimate tool for unit conversions designed to simplify your daily life. With a sleek, user-friendly interface, Convertool helps you convert a wide variety of units efficiently and accurately.
+With a clean and professional interface, NutriSync offers powerful features that ensure accurate supply tracking and smart ordering decisions.
 
 ---
 
 ## Features
 
-- **Comprehensive Unit Support:** Convert length, weight, volume, temperature, and more.
-- **Intuitive Design:** Minimalist cards make navigation and usage simple.
-- **Real-time Updates:** Changes in one unit automatically update others.
-- **Global Compatibility:** Supports localization for multiple languages.
+- **Smart Inventory Control:** Track stock levels of enteral formulas, supplements, and feeding supplies per patient.
+- **Automated Purchase Orders (PDF):** Generate ready-to-print orders based on consumption and stock status.
+- **Forecasts & Insights:** Anticipate when items will run out based on personalized intake patterns.
+- **Offline Access:** Work without internet and sync automatically when reconnected.
+- **Localized Experience:** Available in multiple languages for global accessibility.
 
 ---
 
 ## Our Mission
 
-Our goal is to provide a seamless and reliable experience for users worldwide, ensuring that unit conversion is no longer a hassle.
+Our mission is to support safe and efficient nutritional care by simplifying the logistics of supply management—so professionals can focus on what truly matters: patient health.
 
 ---
 
@@ -27,11 +29,17 @@ Our goal is to provide a seamless and reliable experience for users worldwide, e
 
 ---
 
-## Contact
+## Disclaimer
 
-For support, suggestions, or feedback, feel free to reach us at:  
-**Email:** support@convertool.com
+*All calculations and predictions are based on user-provided data. Always verify critical information before making clinical decisions.*
 
 ---
 
-Thank you for choosing **Convertool**. We hope you enjoy using the app!
+## Contact
+
+For support, suggestions, or feedback, please contact us at:  
+**Email:** support@nutrisync.app
+
+---
+
+Thank you for trusting **NutriSync**. We're honored to be part of your care journey.
