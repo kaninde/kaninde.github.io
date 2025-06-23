@@ -1,4 +1,4 @@
-# Terms and Conditions of Use - NutriSync
+# Privacy Policy - NutriSync
 
 Last Update: [DATE]
 
