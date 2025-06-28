@@ -25,8 +25,7 @@ Tasohumi respects your privacy and is committed to protecting all information yo
 Your data is used **only for in-app functionalities**, such as:
 
 - Comparing product value based on price and measurements (e.g., length, volume, weight);
-- Visually highlighting the best deals;
-- Saving item lists for future reference.
+- Visually highlighting the best deals.
 
 Tasohumi **does not use your data for ads, marketing, analytics, or any external purpose.**
 
