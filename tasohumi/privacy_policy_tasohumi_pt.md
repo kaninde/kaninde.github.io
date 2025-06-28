@@ -23,8 +23,7 @@ O Tasohumi respeita sua privacidade e se compromete a proteger todas as informa�
 Os dados são utilizados **exclusivamente para os cálculos e comparações dentro do aplicativo**, como:
 
 - Comparação de custo-benefício entre produtos com base em preço e medidas (ex: comprimento, volume, peso);
-- Destaques visuais dos melhores itens com base nas métricas informadas;
-- Armazenamento local das listas inseridas para referência futura.
+- Destaques visuais dos melhores itens com base nas métricas informadas.
 
 O Tasohumi **não utiliza seus dados para fins publicitários, comerciais ou analíticos externos**.
 
