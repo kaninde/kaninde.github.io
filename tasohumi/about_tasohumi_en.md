@@ -1,37 +1,36 @@
+# About Tasohumi
 
-# About Convertool
-
-Welcome to **Convertool**, the ultimate tool for unit conversions designed to simplify your daily life. With a sleek, user-friendly interface, Convertool helps you convert a wide variety of units efficiently and accurately.
+Welcome to **Tasohumi**, the app designed to help you find the best value-for-money products. By comparing price, quantity, and measurements like length, volume, or weight, Tasohumi clearly shows which item is the most cost-effective.
 
 ---
 
 ## Features
 
-- **Comprehensive Unit Support:** Convert length, weight, volume, temperature, and more.
-- **Intuitive Design:** Minimalist cards make navigation and usage simple.
-- **Real-time Updates:** Changes in one unit automatically update others.
-- **Global Compatibility:** Supports localization for multiple languages.
+- **Smart Comparison:** Evaluate items based on real unit cost.
+- **Intuitive Visuals:** Colors and highlights that quickly show the best value.
+- **Multiple Measurement Types:** Supports comparison by length, volume, weight, area, and more.
+- **Offline Support:** Works without an internet connection.
 
 ---
 
 ## Our Mission
 
-Our goal is to provide a seamless and reliable experience for users worldwide, ensuring that unit conversion is no longer a hassle.
+We aim to help people save time and money with a practical, accessible, and reliable tool—even in areas with limited connectivity.
 
 ---
 
 ## Version
 
 **App Version:** 1.0.0  
-**Last Update:** [DATE]
+**Last Updated:** [DATE]
 
 ---
 
 ## Contact
 
-For support, suggestions, or feedback, feel free to reach us at:  
-**Email:** support@convertool.com
+For support, suggestions, or feedback, please contact:  
+**Email:** aigil.tech@gmail.com
 
 ---
 
-Thank you for choosing **Convertool**. We hope you enjoy using the app!
+Thank you for choosing **Tasohumi**. We hope it helps you make better everyday purchasing decisions!

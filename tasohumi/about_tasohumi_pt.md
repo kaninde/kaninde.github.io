@@ -1,22 +1,21 @@
+# Sobre o Tasohumi
 
-# Sobre o Convertool
-
-Bem-vindo ao **Convertool**, a ferramenta definitiva para conversões de unidades projetada para simplificar o seu dia a dia. Com uma interface elegante e fácil de usar, o Convertool ajuda você a converter uma ampla variedade de unidades de forma eficiente e precisa.
+Bem-vindo ao **Tasohumi**, o aplicativo feito para ajudar você a encontrar os melhores produtos com base no custo-benefício real. Comparando preço, quantidade e medidas como comprimento, volume ou peso, o Tasohumi mostra visualmente qual item vale mais a pena.
 
 ---
 
 ## Funcionalidades
 
-- **Suporte Abrangente de Unidades:** Converta comprimento, peso, volume, temperatura e muito mais.
-- **Design Intuitivo:** Cartões minimalistas tornam a navegação e o uso simples.
-- **Atualizações em Tempo Real:** Alterações em uma unidade atualizam automaticamente as outras.
-- **Compatibilidade Global:** Suporte para localização em vários idiomas.
+- **Comparação Inteligente:** Avalie itens considerando preço por unidade real.
+- **Visual Intuitivo:** Cores e destaques para mostrar rapidamente o melhor custo-benefício.
+- **Unidades Variadas:** Suporte para comparação por comprimento, volume, peso, área e mais.
+- **Uso Offline:** O app funciona sem precisar de conexão com a internet.
 
 ---
 
 ## Nossa Missão
 
-Nosso objetivo é oferecer uma experiência perfeita e confiável para usuários em todo o mundo, garantindo que a conversão de unidades não seja mais um problema.
+Ajudar pessoas a economizar tempo e dinheiro com uma ferramenta prática, acessível e confiável, mesmo em contextos com baixa conectividade.
 
 ---
 
@@ -30,8 +29,8 @@ Nosso objetivo é oferecer uma experiência perfeita e confiável para usuários
 ## Contato
 
 Para suporte, sugestões ou feedback, entre em contato conosco em:  
-**E-mail:** suporte@convertool.com
+**E-mail:** aigil.tech@gmail.com
 
 ---
 
-Obrigado por escolher o **Convertool**. Esperamos que você aproveite o uso do aplicativo!
+Obrigado por escolher o **Tasohumi**. Esperamos que ele seja útil nas suas decisões de compra do dia a dia!
