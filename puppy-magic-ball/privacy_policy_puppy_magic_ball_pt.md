@@ -1,92 +1,67 @@
-# Política de Privacidade – TaPago
+# Política de Privacidade – Puppy Magic Ball
 
-Última atualização: 1 de Outubro de 2025
+Última atualização: 30 de janeiro de 2026
+
+---
 
 ## 1. Introdução
 
-Esta Política de Privacidade descreve como o aplicativo **TaPago** (“Aplicativo”) trata os dados fornecidos pelo usuário (“Você”). Ao utilizar o Aplicativo, você concorda com os termos descritos abaixo.
+Esta Política de Privacidade explica como o aplicativo **Puppy Magic Ball** (“Aplicativo”) trata informações do usuário.
 
-O TaPago respeita sua privacidade e se compromete a proteger todas as informações que você inserir no aplicativo.
-
----
-
-## 2. Coleta e Armazenamento de Dados
-
-- **Armazenamento Local:** Todos os dados inseridos por você são armazenados **apenas no seu dispositivo**.
-- **Sem uso de servidores externos:** O Aplicativo **não envia, armazena ou compartilha dados em servidores externos ou na nuvem**.
-- **Sem coleta automática de dados:** O TaPago **não realiza coleta automática de informações pessoais** e **não utiliza cookies, rastreadores ou serviços de terceiros** para monitoramento.
+Respeitamos sua privacidade e prezamos pela transparência.
 
 ---
 
-## 3. Uso dos Dados
+## 2. Coleta de Dados
 
-Os dados são utilizados **exclusivamente para funcionalidades internas do aplicativo**, como:
-
-- Registrar check-ins de treinos e acompanhar seu progresso ao longo do tempo;
-- Exibir sua consistência semanal e mensal.
-
-O TaPago **não utiliza seus dados para fins publicitários, comerciais ou analíticos externos**.
+- **Nenhum dado pessoal é coletado.**
+- **Sem cadastro:** O aplicativo não exige login ou identificação.
+- **Sem rastreamento:** Não utilizamos cookies, analytics ou serviços de terceiros.
 
 ---
 
-## 4. Compartilhamento de Dados
+## 3. Armazenamento de Dados
 
-- **O aplicativo não compartilha dados com terceiros.**
-- Qualquer compartilhamento (por exemplo, capturas de tela do seu progresso) deve ser feito **manualmente pelo próprio usuário**, se assim desejar.
-
----
-
-## 5. Controle do Usuário
-
-- Você possui **controle total sobre os dados que insere**.
-- Pode **editar ou excluir** os itens adicionados diretamente pelo aplicativo.
-- A exclusão dos dados é **imediata e irreversível** após a confirmação.
+- **Uso local apenas:** O aplicativo não armazena dados do usuário.
+- **Sem servidores externos:** Nenhuma informação é enviada para a nuvem.
 
 ---
 
-## 6. Segurança
+## 4. Uso das Informações
 
-Embora os dados estejam armazenados localmente, o TaPago foi desenvolvido com boas práticas de segurança para proteger suas informações.
-
-Recomendamos:
-
-- Proteger seu dispositivo com senha, padrão ou biometria;
-- Realizar backups gerais do seu aparelho, se necessário;
-- Utilizar criptografia no dispositivo, quando disponível.
+O Puppy Magic Ball não processa nem analisa dados do usuário. Todas as interações são temporárias e locais.
 
 ---
 
-## 7. Dados de Crianças
+## 5. Compartilhamento
 
-O TaPago é voltado ao público em geral, mas **não é recomendado para menores de 13 anos**. O aplicativo **não coleta intencionalmente dados de crianças**.
-
----
-
-## 8. Direitos do Usuário
-
-Você pode, a qualquer momento:
-
-- Ver, editar ou excluir as informações que adicionou;
-- Desinstalar o aplicativo, o que remove todos os dados locais;
-- Entrar em contato para tirar dúvidas sobre privacidade.
+- O aplicativo não compartilha dados com terceiros.
+- Qualquer compartilhamento (como capturas de tela) é feito por iniciativa do usuário.
 
 ---
 
-## 9. Alterações nesta Política
+## 6. Restrição de Idade
 
-Esta Política poderá ser atualizada conforme melhorias no app ou exigências legais. A versão mais recente estará sempre disponível dentro do aplicativo e/ou na loja oficial.
+O Puppy Magic Ball **não é destinado a crianças**.
 
----
+O uso do aplicativo é **exclusivo para pessoas maiores de idade**, conforme a legislação vigente no país de residência do usuário.
 
-## 10. Contato
-
-Em caso de dúvidas, sugestões ou solicitações sobre privacidade, entre em contato:
-
-**E-mail:** suporte@tapago.com
+Não coletamos intencionalmente informações de menores de idade. Caso você não seja legalmente considerado maior de idade em seu país, **não utilize este aplicativo**.
 
 ---
 
-**Aviso:**  
-O TaPago é fornecido “como está”, e o uso dos dados inseridos é de responsabilidade exclusiva do usuário. Não nos responsabilizamos por decisões baseadas nas informações registradas dentro do app.
+## 7. Alterações nesta Política
+
+Esta Política poderá ser atualizada ocasionalmente. A data no topo do documento indicará a versão mais recente.
 
 ---
+
+## 8. Contato
+
+Em caso de dúvidas sobre esta Política, entre em contato:  
+**E-mail:** samirtf.dev@gmail.com
+
+---
+
+**Observação:**  
+O Puppy Magic Ball é um aplicativo de entretenimento. Nenhuma resposta deve ser interpretada como orientação real.
