@@ -1,94 +1,67 @@
-# Privacy Policy – TaPago
+# Privacy Policy – Puppy Magic Ball
 
-Last updated: October 01, 2025
+Last updated: January 30, 2026
 
 ---
 
 ## 1. Introduction
 
-This Privacy Policy explains how the **TaPago** app (“App”) handles user data. By using the App, you agree to the terms outlined below.
+This Privacy Policy explains how the **Puppy Magic Ball** app (“App”) handles user information.
 
-TaPago respects your privacy and is committed to protecting all information you enter into the app.
-
----
-
-## 2. Data Collection and Storage
-
-- **Local Storage Only:** All data you enter is stored **exclusively on your device**.
-- **No Cloud or Server Storage:** The App **does not transmit, store, or share data** to any external servers or cloud services.
-- **No Background Collection:** TaPago **does not automatically collect personal data** and **does not use cookies, trackers, or third-party services**.
+We respect your privacy and are committed to transparency regarding how the App works.
 
 ---
 
-## 3. Data Usage
+## 2. Data Collection
 
-Your data is used **only for in-app functionalities**, such as:
-
-- Logging workout check-ins and tracking your progress over time;
-- Displaying your weekly and monthly consistency.
-
-TaPago **does not use your data for ads, marketing, analytics, or any external purpose.**
+- **No Personal Data Collected:** Puppy Magic Ball does not collect personal information.
+- **No Accounts:** The App does not require login, registration, or identification.
+- **No Tracking:** No analytics, cookies, trackers, or third-party monitoring tools are used.
 
 ---
 
-## 4. Data Sharing
+## 3. Data Storage
 
-- **No automatic sharing of data.**
-- Any sharing (e.g., screenshots of progress or achievements) is done **manually by the user**, if desired.
-
----
-
-## 5. User Control
-
-- You have **full control over the data** you enter in the app.
-- You may **edit or delete** your data at any time through the app interface.
-- Data deletion is **immediate and irreversible** after confirmation.
+- **Local Use Only:** The App does not store user data.
+- **No Cloud or Servers:** No information is sent to or stored on external servers.
 
 ---
 
-## 6. Security
+## 4. Data Usage
 
-Although all data is stored locally, TaPago follows good security practices to protect your data.
-
-We recommend:
-
-- Protecting your device with a passcode or biometric lock;
-- Backing up your device when necessary;
-- Using device encryption if available.
+Puppy Magic Ball does not process or analyze user data. All interactions are local and temporary.
 
 ---
 
-## 7. Children’s Data
+## 5. Data Sharing
 
-TaPago is intended for general audiences but **not for children under 13**. We do **not knowingly collect data from children**.
-
----
-
-## 8. User Rights
-
-You may, at any time:
-
-- View, edit, or delete your local data;
-- Uninstall the app to remove all data from your device;
-- Contact us with any privacy-related questions.
+- The App does not share any data with third parties.
+- Any sharing (such as screenshots) is done voluntarily by the user.
 
 ---
 
-## 9. Policy Updates
+## 6. Age Restriction
 
-This Privacy Policy may be updated to reflect improvements or legal changes. The latest version will always be available within the app and/or on the app store listing.
+Puppy Magic Ball **is not intended for children**.
 
----
+The App is designed for **adults only**, and may only be used by individuals who are **of legal age according to the laws of their country of residence**.
 
-## 10. Contact
-
-For questions or privacy-related concerns, contact us:
-
-**Email:** support@tapago.com
+We do not knowingly collect, store, or process information from minors. If you are not legally considered an adult in your country, you must not use this App.
 
 ---
 
-**Notice:**  
-TaPago is provided "as is", and all data used is your sole responsibility. We are not liable for interpretations or decisions based on in-app usage.
+## 7. Changes to This Policy
+
+This Privacy Policy may be updated occasionally. Any changes will be reflected by updating the date at the top of this document.
 
 ---
+
+## 8. Contact
+
+If you have questions about this Privacy Policy, contact us at:  
+**Email:** samirtf.dev@gmail.com
+
+---
+
+**Note:**  
+Puppy Magic Ball is an entertainment app. No decisions or outcomes should be considered factual or reliable.
