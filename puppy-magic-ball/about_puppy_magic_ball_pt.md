@@ -1,36 +1,40 @@
-# Sobre o TaPago
+# Sobre o Puppy Magic Ball
 
-Bem-vindo ao **TaPago**, o aplicativo definitivo de check-in e acompanhamento de treinos projetado para manter sua motivação em alta. Com uma interface simples e social, o TaPago ajuda você a registrar seus treinos e celebrar cada etapa da sua jornada fitness.
+Bem-vindo ao **Puppy Magic Ball**, um aplicativo divertido e descontraído criado para ajudar você a tomar decisões simples de forma leve e aleatória.
+
+Basta pensar em uma pergunta de “sim ou não”, tocar na tela e deixar que o Puppy Magic Ball responda. Ideal para brincar com amigos, passar o tempo ou apenas se divertir com respostas inesperadas.
 
 ---
 
 ## Funcionalidades
 
-- **Check-ins Rápidos:** Registre seus treinos com um único toque.
-- **Acompanhamento de Progresso:** Visualize sua consistência e desempenho semanal.
-- **Leve e Rápido:** Design minimalista focado em simplicidade e usabilidade.
-- **Suporte Offline:** Funciona perfeitamente sem conexão com a internet.
+- **Respostas Sim ou Não:** Respostas instantâneas para perguntas simples.
+- **Experiência Divertida:** Visual fofo e clima descontraído.
+- **Interação com Um Toque:** Uso extremamente simples e intuitivo.
+- **Funciona Offline:** Não precisa de internet.
+- **Sem Cadastro:** Abra o app e comece a usar.
 
 ---
 
-## Nossa Missão
+## Propósito
 
-Nosso objetivo é ajudar você a se manter consistente, motivado e orgulhoso do seu progresso. O TaPago é mais que um simples registro — é uma forma de celebrar sua disciplina e se conectar com outros que compartilham a mesma dedicação.
+O Puppy Magic Ball foi criado exclusivamente para fins de entretenimento. Ele **não fornece conselhos reais, profissionais ou confiáveis**. Todas as respostas são geradas de forma aleatória e devem ser encaradas como uma brincadeira.
 
 ---
 
 ## Versão
 
 **Versão do App:** 1.0.0  
-**Última Atualização:** 01/10/2025
+**Última Atualização:** 30 de janeiro de 2026
 
 ---
 
 ## Contato
 
-Para suporte, sugestões ou feedback, entre em contato conosco em:  
-**E-mail:** suporte@tapago.com
+Para dúvidas, sugestões ou feedback, entre em contato:  
+**E-mail:** samirtf.dev@gmail.com
 
 ---
 
-Obrigado por escolher o **TaPago**. Vamos manter a sequência viva — #TaPago!
+Divirta-se com o **Puppy Magic Ball** 🐶🎱  
+Às vezes, decidir pode ser só uma brincadeira.
