@@ -48,7 +48,7 @@ No. TaPago does not provide workout plans or coaching. It focuses on check-ins, 
 ## Contact
 
 For support, suggestions, or feedback, feel free to reach us at:  
-**Email:** support@tapago.com
+**Email:** samirtf.dev@gmail.com
 
 ---
 
