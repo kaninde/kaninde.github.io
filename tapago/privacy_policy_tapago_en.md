@@ -84,7 +84,7 @@ This Privacy Policy may be updated to reflect improvements or legal changes. The
 
 For questions or privacy-related concerns, contact us:
 
-**Email:** support@tapago.com
+**Email:** samirtf.dev@gmail.com
 
 ---
 
