@@ -82,7 +82,7 @@ Esta Política poderá ser atualizada conforme melhorias no app ou exigências l
 
 Em caso de dúvidas, sugestões ou solicitações sobre privacidade, entre em contato:
 
-**E-mail:** suporte@tapago.com
+**E-mail:** samirtf.dev@gmail.com
 
 ---
 
