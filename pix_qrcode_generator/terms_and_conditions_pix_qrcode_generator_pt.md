@@ -1,11 +1,11 @@
-# Termos e Condições de Uso - TaPago
+# Termos e Condições de Uso - Pix QR Code Generator
 
-Última Atualização: 1 de Outubro de 2025
+Última Atualização: 8 de Fevereiro de 2026
 
 ---
 
 ## 1. Aceitação dos Termos
-Ao baixar, instalar, acessar ou usar o aplicativo **TaPago** (“Aplicativo”), você (“Usuário”) confirma que leu, compreendeu e concorda em estar legalmente vinculado a estes Termos e Condições de Uso. Se não concordar com qualquer parte, o uso do Aplicativo está expressamente proibido.
+Ao baixar, instalar, acessar ou usar o aplicativo **Pix QR Code Generator** ("Aplicativo"), você ("Usuário") confirma que leu, compreendeu e concorda em estar legalmente vinculado a estes Termos e Condições de Uso. Se não concordar com qualquer parte, o uso do Aplicativo está expressamente proibido.
 
 ---
 
@@ -25,19 +25,21 @@ O Aplicativo é fornecido para uso pessoal, informativo e não comercial. O Usu�
 - Que possam gerar lucros diretos ou indiretos.
 
 ### 3.2. Proibição de Transmissão de Dados a Terceiros:
-O Usuário concorda que, ao utilizar o Aplicativo para transmitir ou compartilhar dados de check-ins ou acompanhamento de progresso com terceiros, assume total responsabilidade por quaisquer danos, prejuízos ou litígios causados a terceiros ou a outras pessoas, direta ou indiretamente.
+O Usuário concorda que, ao utilizar o Aplicativo para transmitir ou compartilhar QR Codes PIX, códigos Copia e Cola, chaves PIX ou dados de pagamento com terceiros, assume total responsabilidade por quaisquer danos, prejuízos ou litígios causados a terceiros ou a outras pessoas, direta ou indiretamente. O Aplicativo apenas gera QR Codes — não processa, valida ou executa pagamentos. A responsabilidade por transações PIX é exclusiva do Usuário e do banco receptor.
 
 ### 3.3. Responsabilidade Exclusiva:
 O Usuário será o único responsável por quaisquer consequências decorrentes do uso do Aplicativo, incluindo:
-- Dados imprecisos ou errados.
-- Impactos causados a terceiros devido à má interpretação ou uso indevido dos dados fornecidos pelo Aplicativo.
-- Decisões tomadas com base nos resultados apresentados pelo Aplicativo.
+- Chaves PIX incorretas ou códigos gerados com dados imprecisos.
+- Valores, nomes de recebedores ou demais informações digitadas erroneamente.
+- Impactos causados a terceiros devido à má interpretação ou uso indevido dos QR Codes ou códigos gerados.
+- Decisões e transações baseadas nos QR Codes ou códigos Copia e Cola produzidos pelo Aplicativo.
 
 ---
 
 ## 4. Isenção de Garantias
 O Aplicativo é fornecido "como está" e "conforme disponível". Não garantimos:
-- Precisão, confiabilidade ou adequação para qualquer finalidade específica.
+- Precisão, confiabilidade ou adequação dos QR Codes ou códigos gerados para qualquer finalidade específica.
+- Compatibilidade com todos os aplicativos bancários ou sistemas de pagamento PIX.
 - Disponibilidade contínua do Aplicativo.
 
 ---
@@ -46,19 +48,20 @@ O Aplicativo é fornecido "como está" e "conforme disponível". Não garantimos
 ### 5.1. Exclusão de Responsabilidade:
 Em nenhuma circunstância seremos responsáveis por:
 - Danos diretos, indiretos, incidentais ou consequenciais.
-- Perdas financeiras, danos a terceiros ou prejuízos físicos e emocionais.
+- Perdas financeiras, pagamentos indevidos, danos a terceiros ou prejuízos físicos e emocionais decorrentes do uso dos QR Codes ou códigos gerados.
+- Erros em transações PIX realizadas fora do Aplicativo.
 
 ### 5.2. Dados Compartilhados com Terceiros:
-Qualquer dado fornecido pelo Usuário a terceiros é de total responsabilidade do Usuário, incluindo eventuais consequências legais, financeiras ou morais resultantes.
+Qualquer QR Code, código Copia e Cola ou dado fornecido pelo Usuário a terceiros é de total responsabilidade do Usuário, incluindo eventuais consequências legais, financeiras ou morais resultantes.
 
 ---
 
 ## 6. Reembolsos e Pagamentos
 ### 6.1. Sem Reembolsos:
-Não haverá devolução de quaisquer valores pagos, independentemente do motivo.
+Não haverá devolução de quaisquer valores pagos — incluindo assinaturas premium ou compras no aplicativo — independentemente do motivo, salvo exigência legal aplicável.
 
 ### 6.2. Concordância Obrigatória:
-Ao realizar qualquer pagamento, o Usuário concorda que leu e aceitou integralmente estes Termos.
+Ao realizar qualquer pagamento — assinatura, compra ou desbloqueio de funcionalidade — o Usuário concorda que leu e aceitou integralmente estes Termos.
 
 ---
 
@@ -108,4 +111,4 @@ Para dúvidas ou mais informações, entre em contato pelo e-mail: **samirtf.dev
 ---
 
 **ATENÇÃO:**
-Ao utilizar o **TaPago**, você confirma que leu, compreendeu e concorda com todos os Termos e Condições descritos. O uso do Aplicativo implica aceitação total, incluindo a responsabilidade por qualquer dado compartilhado com terceiros e a adesão às disposições de sigilo processual.
+Ao utilizar o **Pix QR Code Generator**, você confirma que leu, compreendeu e concorda com todos os Termos e Condições descritos. O uso do Aplicativo implica aceitação total, incluindo a responsabilidade por qualquer QR Code ou dado compartilhado com terceiros, a compreensão de que o app apenas gera códigos e não processa pagamentos, e a adesão às disposições de sigilo processual.
