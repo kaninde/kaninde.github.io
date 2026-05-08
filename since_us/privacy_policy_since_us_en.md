@@ -1,83 +1,123 @@
 # Privacy Policy – Since Us
 
-Last updated: May 07, 2026
+Last updated: May 08, 2026
 
 ---
 
 ## 1. Introduction
 
-This Privacy Policy explains how the **Since Us** app (“App”) handles user data. By using the App, you agree to the terms outlined below.
+This Privacy Policy describes how Since Us: Relationship Counter ("App") handles user information.
 
-Since Us respects your privacy and is committed to protecting the information you choose to enter in the app.
+By using the App, you agree to the terms described in this Privacy Policy.
+
+We are committed to protecting your privacy and ensuring transparency about how your data is handled.
 
 ---
 
 ## 2. Data Collection and Storage
 
-- **Local storage:** By default, the information you add (notes, timeline entries, milestones, preferences, etc.) is stored **on your device**.
-- **No automatic data selling/sharing:** Since Us does **not** sell your personal data.
-- **No background tracking:** Since Us does **not** collect data in the background and does **not** use cookies or trackers to monitor you.
+### 2.1 Local Data Storage
 
-Depending on features you enable, the app may use device capabilities:
+- The App is designed to work primarily offline.
+- All information you enter (such as notes, relationship dates, milestones, preferences, and memories) is stored locally on your device.
 
-- **Photos (optional):** If you choose to add or change photos, the app may request access to the camera and/or photo library to let you pick or capture an image. Photos you choose are used **only** for in-app display.
+### 2.2 Personal Data Collection
+
+- The App does not require account creation.
+- The App does not collect personal data on external servers.
+
+### 2.3 Permissions
+
+Depending on the features you choose to use, the App may request access to:
+
+- Camera and Photos (optional):  
+  Used only when you choose to add or update images within the App.  
+  Images are stored locally and used exclusively for displaying your content.
+
+- The App does not access these resources without your explicit action.
 
 ---
 
 ## 3. Data Usage
 
-Your data is used **only to provide app features**, such as:
+The data you provide is used solely to enable core app functionalities, including:
 
-- Building your relationship timeline and memories;
-- Showing milestones (bodas) and special dates;
-- Personalizing your experience.
+- Creating and managing your relationship timeline;
+- Displaying anniversaries and milestones;
+- Personalizing your experience within the App.
+
+The App does not use your data for profiling or advertising purposes.
 
 ---
 
 ## 4. Data Sharing
 
-- **No automatic sharing.**
-- Any sharing (e.g., exporting or sharing a screenshot) is performed **manually by you**, when you choose to do so.
+- The App does not sell, rent, or share personal data with third parties.
+- The App does not transmit your data externally.
+
+Any sharing of content (such as screenshots or exported images) occurs only when initiated by you.
 
 ---
 
-## 5. User Control
+## 5. Third-Party Services
 
-- You can **view, edit, and delete** your content at any time inside the app.
-- Deletion is **immediate** after confirmation.
+The App may use third-party services for limited purposes:
 
----
+- Advertising (if applicable):  
+  Ads may be displayed using third-party ad networks. These services may collect non-personal, anonymized data (such as device identifiers) to provide relevant ads.
 
-## 6. Security
-
-Although data is primarily stored locally, we follow good practices to help keep your data safe. We recommend:
-
-- Using a device passcode/biometrics;
-- Keeping your OS up to date;
-- Backing up your device when appropriate.
+- These third-party services operate under their own privacy policies.
 
 ---
 
-## 7. Children’s Data
+## 6. Data Retention and Deletion
 
-Since Us is intended for general audiences but is **not directed to children under 13**. We do **not knowingly collect** personal data from children.
-
----
-
-## 8. Policy Updates
-
-This Privacy Policy may be updated to reflect improvements or legal changes. The latest version will always be available on this page and/or within the app.
+- All data remains on your device unless you delete it.
+- You can edit or delete your data at any time within the App.
+- Uninstalling the App will permanently remove all locally stored data.
 
 ---
 
-## 9. Contact
+## 7. Security
 
-For questions or privacy-related concerns, contact us:
+We take reasonable measures to protect your data, including:
 
-**Email:** samirtf.dev@gmail.com
+- Keeping data stored locally on your device;
+- Avoiding unnecessary data collection or transmission.
+
+However, you are responsible for securing your device, including:
+
+- Using device lock (PIN, password, biometrics);
+- Keeping your operating system updated.
 
 ---
 
-**Notice:**  
-Since Us is provided “as is”. You are responsible for the content you choose to store and share.
+## 8. Children’s Privacy
 
+The App is intended for general audiences but is not directed to children under the age of 13.
+
+We do not knowingly collect personal data from children.
+
+---
+
+## 9. Changes to This Policy
+
+This Privacy Policy may be updated from time to time.
+
+- Updates will be reflected by revising the "Last updated" date.
+- Continued use of the App after changes constitutes acceptance of the updated policy.
+
+---
+
+## 10. Contact
+
+If you have any questions or concerns about this Privacy Policy, please contact:
+
+Email: samirtf.dev@gmail.com
+
+---
+
+## 11. Disclaimer
+
+The App is provided "as is" without warranties of any kind.  
+You are solely responsible for the content you choose to store and share within the App.
