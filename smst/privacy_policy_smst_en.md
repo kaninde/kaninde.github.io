@@ -1,4 +1,4 @@
-# Privacy Policy – Social Media Safe Text (SMST)
+# Privacy Policy – Social Media Safe Text: 1337 (SMST)
 
 Last updated: May 09, 2026
 
