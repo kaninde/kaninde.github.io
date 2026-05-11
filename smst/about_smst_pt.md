@@ -1,4 +1,4 @@
-# Sobre o Social Media Safe Text (SMST)
+# Sobre o Texto Seguro: Redes Sociais (Social Media Safe Text (SMST))
 
 Bem-vindo ao **Social Media Safe Text (SMST)** — um aplicativo para revisar e preparar textos antes de publicar nas redes sociais.
 
