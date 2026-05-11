@@ -1,5 +1,4 @@
-# Política de Privacidade – Social Media Safe Text (SMST)
-
+# Política de Privacidade – Texto Seguro: Redes Sociais (Social Media Safe Text (SMST))
 Última atualização: 09 de maio de 2026
 
 ---
