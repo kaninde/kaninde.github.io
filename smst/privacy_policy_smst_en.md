@@ -6,7 +6,7 @@ Last updated: May 09, 2026
 
 ## 1. Introduction
 
-This Privacy Policy describes how **Social Media Safe Text** (“SMST”, “App”) handles information on your device and, when you use certain features, limited interactions over the internet.
+This Privacy Policy describes how **Social Media Safe Text: 1337** (“SMST”, “App”) handles information on your device and, when you use certain features, limited interactions over the internet.
 
 By using the App, you agree to the practices described in this Privacy Policy.
 
