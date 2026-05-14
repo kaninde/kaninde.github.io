@@ -1,0 +1,121 @@
+{
+  "apps": [
+    {
+      "icon_url": "https://play-lh.googleusercontent.com/p0sqFViBA6vZGsrNIkk1bPxr-XF1iNs9wMaQaN85xQUl3FS6BGn0Iv11bo67xnVj2_R1W0u0X2MVIb1R_PMKv24%3Dw240-h480",
+      "title_default": "Social Media Safe Text: 1337",
+      "locale_titles": {
+        "en": "Social Media Safe Text: 1337",
+        "pt": "Texto seguro para redes sociais: 1337",
+        "pt_BR": "Texto seguro para redes sociais: 1337",
+        "pt_PT": "Texto seguro nas redes sociais: 1337"
+      },
+      "google_play_app_id": "tf.samir.kaninde.flutter.smst",
+      "app_store_app_id": "",
+      "ios_bundle_id": "tf.samir.kaninde.flutter.smst"
+    },
+    {
+      "icon_url": "https://play-lh.googleusercontent.com/QXC9NplH_i98o26yX2eafCa8_9UulVkPn75qd_X-JYr25uzl2xukQzJsObKOxdkOAlYOpLxqhoVwY9_GOcXL-A%3Dw240-h480",
+      "title_default": "Since Us: Relationship Counter",
+      "locale_titles": {
+        "en": "Since Us: Relationship Counter",
+        "pt": "Since Us: contador de relação",
+        "pt_BR": "Since Us: contador de relacionamento",
+        "pt_PT": "Since Us: contador de relação"
+      },
+      "google_play_app_id": "tf.samir.kaninde.flutter.since_us",
+      "app_store_app_id": "",
+      "ios_bundle_id": "tf.samir.kaninde.flutter.since_us"
+    },
+    {
+      "icon_url": "https://play-lh.googleusercontent.com/yM38xrzEnI17V4CdrPCRkeOO0hQaQT9HjzGOvR27tm_jSymRUb_BA2bpDeyWUp1Nt-ftZftiKBmCNqLGrCWJ%3Dw240-h480",
+      "title_default": "Speaker Cleaner Water Eject",
+      "locale_titles": {
+        "en": "Speaker Cleaner Water Eject",
+        "pt": "Speaker Cleaner: ejeção de água",
+        "pt_BR": "Speaker Cleaner: ejeção de água",
+        "pt_PT": "Speaker Cleaner: ejeção de água"
+      },
+      "google_play_app_id": "tf.samir.kaninde.flutter.sc.speaker_cleaner",
+      "app_store_app_id": "",
+      "ios_bundle_id": "tf.samir.kaninde.flutter.sc.speaker_cleaner"
+    },
+    {
+      "icon_url": "https://play-lh.googleusercontent.com/IacLyvLROGf0DnEY-P-Tq7U982q0t_e3nRtMEUPrBDnuQx9Ursy4T4WnEcTTimIR7Ho9toSKI4tLqtSOnQZt_g%3Dw240-h480",
+      "title_default": "PIX QR Code Generator",
+      "locale_titles": {
+        "en": "PIX QR Code Generator",
+        "pt": "Gerador de código QR PIX",
+        "pt_BR": "Gerador de código QR PIX",
+        "pt_PT": "Gerador de código QR PIX"
+      },
+      "google_play_app_id": "tf.samir.kaninde.flutter.pqg.pix_qr_code_generator",
+      "app_store_app_id": "",
+      "ios_bundle_id": "tf.samir.kaninde.flutter.pqg.pix_qr_code_generator"
+    },
+    {
+      "icon_url": "https://play-lh.googleusercontent.com/dw6RBr1i0LtjMNrqQKIkx4EDeG8dSCni_kUed_4oARR1JSPtbxqzHok82WnsziF53qfWYTQchxVKEFt1lWWJrGk%3Dw240-h480",
+      "title_default": "Puppy Magic Ball: Yes or No",
+      "locale_titles": {
+        "en": "Puppy Magic Ball: Yes or No",
+        "pt": "Puppy Magic Ball: sim ou não",
+        "pt_BR": "Puppy Magic Ball: sim ou não",
+        "pt_PT": "Puppy Magic Ball: sim ou não"
+      },
+      "google_play_app_id": "tf.samir.kaninde.flutter.pmb.puppy_magic_ball",
+      "app_store_app_id": "",
+      "ios_bundle_id": "tf.samir.kaninde.flutter.pmb.puppy_magic_ball"
+    },
+    {
+      "icon_url": "https://play-lh.googleusercontent.com/ZcGFuzHRdO5y3I38u-mC-fq_kPFMSfkhVFR4aTiXuwnj2vPQ33IF8KswDnDOeaPjPvOb_n0l1OkrtoShl_0l%3Dw240-h480",
+      "title_default": "Ta Pago: Fitness Tracker!",
+      "locale_titles": {
+        "en": "Ta Pago: Fitness Tracker!",
+        "pt": "Ta Pago: monitor de fitness",
+        "pt_BR": "Ta Pago: monitor de fitness",
+        "pt_PT": "Ta Pago: monitor de atividade física"
+      },
+      "google_play_app_id": "tf.samir.kaninde.flutter.tapago.ta_pago",
+      "app_store_app_id": "",
+      "ios_bundle_id": "tf.samir.kaninde.flutter.tapago.ta_pago"
+    },
+    {
+      "icon_url": "",
+      "title_default": "Tasohumi: Economiza Mais",
+      "locale_titles": {
+        "en": "Tasohumi: Save More",
+        "pt": "Tasohumi: economiza mais",
+        "pt_BR": "Tasohumi: economiza mais",
+        "pt_PT": "Tasohumi: poupa mais"
+      },
+      "google_play_app_id": "tf.samir.kaninde.flutter.tasohumi.tasohumi",
+      "app_store_app_id": "",
+      "ios_bundle_id": "tf.samir.kaninde.flutter.tasohumi.tasohumi"
+    },
+    {
+      "icon_url": "",
+      "title_default": "NutriSync",
+      "locale_titles": {
+        "en": "NutriSync",
+        "pt": "NutriSync",
+        "pt_BR": "NutriSync",
+        "pt_PT": "NutriSync"
+      },
+      "google_play_app_id": "tf.samir.kaninde.kotlin.nutrisync",
+      "app_store_app_id": "",
+      "ios_bundle_id": "tf.samir.kaninde.kotlin.nutrisync"
+    },
+    {
+      "icon_url": "https://play-lh.googleusercontent.com/2f41EtAc61tBFBwPfZWLKxeDvF7nKWsQ0M77NTtDEmO-BUrgUYNWK89YfnW5H8AlDYaS%3Dw240-h480",
+      "title_default": "Convertool: unit conversion",
+      "locale_titles": {
+        "en": "Convertool: unit conversion",
+        "pt": "Convertool: conversão de unidades",
+        "pt_BR": "Convertool: conversão de unidades",
+        "pt_PT": "Convertool: conversão de unidades"
+      },
+      "google_play_app_id": "tf.samir.kaninde.kotlin.util.convertool",
+      "app_store_app_id": "",
+      "ios_bundle_id": "tf.samir.kaninde.kotlin.util.convertool"
+    }
+  ]
+}
