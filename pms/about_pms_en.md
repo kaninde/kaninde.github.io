@@ -37,7 +37,7 @@ Most meet planning and live use work **offline**. Internet is used when you choo
 Local data lives on your device. Uninstalling the app can **permanently remove** that data unless you have exported a backup ZIP.
 
 **Is this an official federation app?**  
-No. PMS is a **tool for you and your coach**. You remain responsible for verifying weights, attempts, and rules against the official technical controller and competition regulations.
+No. PMS is a **tool for you and help your coach to achive productivity**. You remain responsible for verifying weights, attempts, and rules against the official technical controller and competition regulations.
 
 ---
 
