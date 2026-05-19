@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 2,
+  "catalogId": "pcls.colors.nordeste",
+  "catalogVersion": 1,
+  "defaultLocale": "en",
+  "name": "Brazilian Northeast Colors",
+  "entries": [
+    {
+      "id": "mandacaru_bloom",
+      "hex": "#E8B4CB",
+      "names": {
+        "en": "Mandacaru Bloom",
+        "pt": "Flor de Mandacaru"
+      },
+      "aliases": {
+        "en": ["mandacaru flower", "caatinga pink", "nordeste cactus bloom"],
+        "pt": ["mandacaru", "flor do sertao", "rosa mandacaru"]
+      }
+    },
+    {
+      "id": "caatinga_dust",
+      "hex": "#C4A882",
+      "names": {
+        "en": "Caatinga Dust",
+        "pt": "Poeira da Caatinga"
+      },
+      "aliases": {
+        "en": ["caatinga beige", "dry scrubland", "sertao dust"],
+        "pt": ["caatinga", "cor da caatinga", "bege sertao"]
+      }
+    },
+    {
+      "id": "sertao_ochre",
+      "hex": "#B8860B",
+      "names": {
+        "en": "Sertão Ochre",
+        "pt": "Ocre do Sertão"
+      },
+      "aliases": {
+        "en": ["sertao ochre", "backlands gold", "nordeste ochre"],
+        "pt": ["ocre sertao", "dourado do sertao", "terra seca"]
+      }
+    },
+    {
+      "id": "mare_tide",
+      "hex": "#4A90A4",
+      "names": {
+        "en": "Maré Tide",
+        "pt": "Maré da Costa"
+      },
+      "aliases": {
+        "en": ["tide blue", "nordeste sea", "coastal tide"],
+        "pt": ["mare", "azul mare", "cor da mare"]
+      }
+    },
+    {
+      "id": "piscina_natural",
+      "hex": "#2EC4B6",
+      "names": {
+        "en": "Natural Pool Turquoise",
+        "pt": "Piscina Natural"
+      },
+      "aliases": {
+        "en": ["natural pool", "nordeste turquoise", "coastal lagoon"],
+        "pt": ["piscina natural", "turquesa litoral", "agua cristalina"]
+      }
+    },
+    {
+      "id": "coqueiro_shade",
+      "hex": "#2D5A3D",
+      "names": {
+        "en": "Coconut Palm Shade",
+        "pt": "Sombra do Coqueiro"
+      },
+      "aliases": {
+        "en": ["palm green", "coastal palm", "nordeste palm"],
+        "pt": ["coqueiro", "verde coqueiro", "palmeira litoral"]
+      }
+    },
+    {
+      "id": "terracota_olinda",
+      "hex": "#C4622D",
+      "names": {
+        "en": "Olinda Terracotta",
+        "pt": "Terracota de Olinda"
+      },
+      "aliases": {
+        "en": ["olinda clay", "nordeste terracotta", "historic terracotta"],
+        "pt": ["barro de olinda", "terracota nordeste", "cor de olinda"]
+      }
+    },
+    {
+      "id": "colonial_lime",
+      "hex": "#D4E157",
+      "names": {
+        "en": "Colonial Lime",
+        "pt": "Verde Colonial"
+      },
+      "aliases": {
+        "en": ["colonial green", "nordeste lime", "historic lime wash"],
+        "pt": ["verde colonial", "cal colonial", "casa colonial"]
+      }
+    },
+    {
+      "id": "azulejo_blue",
+      "hex": "#1E5F8C",
+      "names": {
+        "en": "Azulejo Blue",
+        "pt": "Azul de Azulejo"
+      },
+      "aliases": {
+        "en": ["tile blue", "portuguese tile", "nordeste azulejo"],
+        "pt": ["azulejo", "azul azulejo", "azulejo portugues"]
+      }
+    },
+    {
+      "id": "renda_branca",
+      "hex": "#F8F6F0",
+      "names": {
+        "en": "Renda Branca",
+        "pt": "Branco de Renda"
+      },
+      "aliases": {
+        "en": ["lace white", "nordeste lace", "handmade lace white"],
+        "pt": ["renda", "branco renda", "cor de renda"]
+      }
+    },
+    {
+      "id": "palha_carnauba",
+      "hex": "#E8D4A8",
+      "names": {
+        "en": "Carnauba Straw",
+        "pt": "Palha de Carnaúba"
+      },
+      "aliases": {
+        "en": ["carnauba straw", "palm straw", "nordeste straw"],
+        "pt": ["palha", "palha de carnauba", "palha nordeste"]
+      }
+    },
+    {
+      "id": "ceramica_maragogi",
+      "hex": "#8B4513",
+      "names": {
+        "en": "Maragogi Pottery",
+        "pt": "Cerâmica de Maragogi"
+      },
+      "aliases": {
+        "en": ["maragogi pottery", "nordeste ceramic", "handmade clay brown"],
+        "pt": ["ceramica maragogi", "barro maragogi", "ceramica nordeste"]
+      }
+    },
+    {
+      "id": "jerimum_orange",
+      "hex": "#E85D04",
+      "names": {
+        "en": "Jerimum Orange",
+        "pt": "Laranja de Jerimum"
+      },
+      "aliases": {
+        "en": ["pumpkin orange", "squash orange", "nordeste pumpkin"],
+        "pt": ["jerimum", "cor de jerimum", "abobora nordeste"]
+      }
+    },
+    {
+      "id": "milho_verde",
+      "hex": "#7CB342",
+      "names": {
+        "en": "Green Corn",
+        "pt": "Milho Verde"
+      },
+      "aliases": {
+        "en": ["corn green", "nordeste corn", "fresh corn husk"],
+        "pt": ["milho", "verde milho", "milho verde nordeste"]
+      }
+    },
+    {
+      "id": "caju_gold",
+      "hex": "#F4A460",
+      "names": {
+        "en": "Caju Gold",
+        "pt": "Dourado de Caju"
+      },
+      "aliases": {
+        "en": ["cashew gold", "nordeste cashew", "caju fruit"],
+        "pt": ["caju", "dourado caju", "cor do caju"]
+      }
+    },
+    {
+      "id": "tapioca_cream",
+      "hex": "#FFF8E7",
+      "names": {
+        "en": "Tapioca Cream",
+        "pt": "Creme de Tapioca"
+      },
+      "aliases": {
+        "en": ["tapioca white", "nordeste tapioca", "goma cream"],
+        "pt": ["tapioca", "branco tapioca", "goma de tapioca"]
+      }
+    },
+    {
+      "id": "frevo_magenta",
+      "hex": "#C71585",
+      "names": {
+        "en": "Frevo Magenta",
+        "pt": "Magenta do Frevo"
+      },
+      "aliases": {
+        "en": ["frevo pink", "recife carnival", "nordeste frevo"],
+        "pt": ["frevo", "rosa frevo", "cor do frevo"]
+      }
+    },
+    {
+      "id": "maracatu_gold",
+      "hex": "#FFD700",
+      "names": {
+        "en": "Maracatu Gold",
+        "pt": "Ouro do Maracatu"
+      },
+      "aliases": {
+        "en": ["maracatu gold", "recife maracatu", "nordeste carnival gold"],
+        "pt": ["maracatu", "dourado maracatu", "ouro maracatu"]
+      }
+    },
+    {
+      "id": "forro_sunset",
+      "hex": "#FF6B35",
+      "names": {
+        "en": "Forró Sunset",
+        "pt": "Pôr do Sol do Forró"
+      },
+      "aliases": {
+        "en": ["forro orange", "nordeste sunset", "dance hall sunset"],
+        "pt": ["forro", "laranja forro", "entardecer nordeste"]
+      }
+    },
+    {
+      "id": "sol_nordestino",
+      "hex": "#FFB347",
+      "names": {
+        "en": "Nordeste Sun",
+        "pt": "Sol Nordestino"
+      },
+      "aliases": {
+        "en": ["nordeste sun", "tropical sun", "sertao sun"],
+        "pt": ["sol nordeste", "sol nordestino", "sol do sertao"]
+      }
+    },
+    {
+      "id": "crepusculo_sertao",
+      "hex": "#9B4F96",
+      "names": {
+        "en": "Sertão Dusk",
+        "pt": "Crepúsculo do Sertão"
+      },
+      "aliases": {
+        "en": ["sertao dusk", "nordeste twilight", "backlands purple"],
+        "pt": ["crepusculo sertao", "entardecer sertao", "roxo entardecer"]
+      }
+    },
+    {
+      "id": "algodao_branco",
+      "hex": "#F5F5F0",
+      "names": {
+        "en": "Cotton White",
+        "pt": "Branco Algodão"
+      },
+      "aliases": {
+        "en": ["cotton white", "nordeste cotton", "field cotton"],
+        "pt": ["algodao", "branco algodao", "cor do algodao"]
+      }
+    },
+    {
+      "id": "carnauba_wax",
+      "hex": "#F0E68C",
+      "names": {
+        "en": "Carnauba Wax",
+        "pt": "Cera de Carnaúba"
+      },
+      "aliases": {
+        "en": ["carnauba yellow", "palm wax", "nordeste wax"],
+        "pt": ["carnauba", "amarelo carnauba", "cera carnauba"]
+      }
+    },
+    {
+      "id": "barro_vermelho",
+      "hex": "#A52A2A",
+      "names": {
+        "en": "Red Clay",
+        "pt": "Barro Vermelho"
+      },
+      "aliases": {
+        "en": ["red clay", "nordeste clay", "sertao red earth"],
+        "pt": ["barro vermelho", "terra vermelha", "barro nordeste"]
+      }
+    },
+    {
+      "id": "chita_rosa",
+      "hex": "#FF69B4",
+      "names": {
+        "en": "Chita Pink",
+        "pt": "Rosa Chita"
+      },
+      "aliases": {
+        "en": ["chita fabric", "nordeste print pink", "folk textile pink"],
+        "pt": ["chita", "rosa chita", "tecido chita"]
+      }
+    },
+    {
+      "id": "ipueira_verde",
+      "hex": "#556B2F",
+      "names": {
+        "en": "Pondweed Green",
+        "pt": "Verde Ipueira"
+      },
+      "aliases": {
+        "en": ["ipueira green", "wetland green", "nordeste marsh"],
+        "pt": ["ipueira", "verde brejo", "cor da ipueira"]
+      }
+    },
+    {
+      "id": "manguezal",
+      "hex": "#3D5C3D",
+      "names": {
+        "en": "Mangrove Green",
+        "pt": "Verde Manguezal"
+      },
+      "aliases": {
+        "en": ["mangrove green", "nordeste mangrove", "coastal mangrove"],
+        "pt": ["manguezal", "verde mangue", "mangue nordeste"]
+      }
+    },
+    {
+      "id": "areia_forte",
+      "hex": "#EDC9AF",
+      "names": {
+        "en": "Fortaleza Sand",
+        "pt": "Areia de Fortaleza"
+      },
+      "aliases": {
+        "en": ["beach sand", "nordeste sand", "coastal sand"],
+        "pt": ["areia forte", "areia nordeste", "areia da praia"]
+      }
+    },
+    {
+      "id": "cajuina",
+      "hex": "#FF4500",
+      "names": {
+        "en": "Cajuína Red",
+        "pt": "Vermelho Cajuína"
+      },
+      "aliases": {
+        "en": ["cajuina juice", "cashew drink red", "nordeste cajuina"],
+        "pt": ["cajuina", "vermelho cajuina", "suco de caju"]
+      }
+    },
+    {
+      "id": "cuscuz_amarelo",
+      "hex": "#FFDB58",
+      "names": {
+        "en": "Cuscuz Yellow",
+        "pt": "Amarelo de Cuscuz"
+      },
+      "aliases": {
+        "en": ["cornmeal yellow", "nordeste cuscuz", "breakfast yellow"],
+        "pt": ["cuscuz", "amarelo cuscuz", "cor do cuscuz"]
+      }
+    },
+    {
+      "id": "caju_rust",
+      "hex": "#8B3A3A",
+      "names": {
+        "en": "Caju Bark Rust",
+        "pt": "Ferrugem do Cajueiro"
+      },
+      "aliases": {
+        "en": ["cashew bark", "caju tree rust", "nordeste rust"],
+        "pt": ["cajueiro", "casca de caju", "marrom cajueiro"]
+      }
+    },
+    {
+      "id": "nordeste_azure",
+      "hex": "#0077B6",
+      "names": {
+        "en": "Nordeste Azure",
+        "pt": "Azul Nordestino"
+      },
+      "aliases": {
+        "en": ["nordeste blue", "coastal azure", "brazilian northeast blue"],
+        "pt": ["azul nordeste", "azul nordestino", "ceu nordeste"]
+      }
+    }
+  ]
+}
