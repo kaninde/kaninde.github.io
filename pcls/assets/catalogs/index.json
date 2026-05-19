@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "catalogs": [
+    {
+      "id": "pcls.colors.nordeste",
+      "version": 1,
+      "name": "Brazilian Northeast Colors",
+      "url": "https://samir.tf/pcls/assets/catalogs/nordeste_brazil.json"
+    }
+  ]
+}
