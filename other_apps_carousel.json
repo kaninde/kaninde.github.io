@@ -1,5 +1,8 @@
 {
   "randomize": true,
+  "use_cache": false,
+  "cache_ttl_hours": 0,
+  "cache_ttl_days": 0,
   "apps": [
     {
       "icon_url": "https://play-lh.googleusercontent.com/p0sqFViBA6vZGsrNIkk1bPxr-XF1iNs9wMaQaN85xQUl3FS6BGn0Iv11bo67xnVj2_R1W0u0X2MVIb1R_PMKv24%3Dw240-h480",
@@ -80,7 +83,7 @@
       "ios_bundle_id": "tf.samir.kaninde.flutter.tapago.ta_pago"
     },
     {
-      "icon_url": "",
+      "icon_url": "https://play-lh.googleusercontent.com/StMEGAA-WsTaMrYzUFfOfOVR2qb-4J3UeMYZr4u3RRdSTeQvYI07vHwS4XV6DPMyJ2kC=s512-rw",
       "title_default": "Tasohumi: Economiza Mais",
       "locale_titles": {
         "en": "Tasohumi: Save More",
@@ -93,7 +96,7 @@
       "ios_bundle_id": "tf.samir.kaninde.flutter.tasohumi.tasohumi"
     },
     {
-      "icon_url": "",
+      "icon_url": "https://play-lh.googleusercontent.com/BKv6GIQgxpqU3h4LKYf5Yl7GckuZpdImpH0XlOt1PEquYFwcvZ6uIcFmWgLm6Xqutw=s256-rw",
       "title_default": "NutriSync",
       "locale_titles": {
         "en": "NutriSync",
