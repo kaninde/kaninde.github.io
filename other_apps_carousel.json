@@ -5,6 +5,19 @@
   "cache_ttl_days": 0,
   "apps": [
     {
+      "icon_url": "https://play-lh.googleusercontent.com/hrF0Jq8w1V2KQkFRvAT1BfM-0leaA4LqJrlU2T9oAyxoOyW2ZAKMfcFTbNjCiH3eqw57K52INPVzUdrx6D61=s512-rw",
+      "title_default": "Powerlifting Meet Strategy",
+      "locale_titles": {
+        "en": "Powerlifting Meet Strategy",
+        "pt": "Powerlifting Meet Strategy",
+        "pt_BR": "Powerlifting Meet Strategy",
+        "pt_PT": "Powerlifting Meet Strategy"
+      },
+      "google_play_app_id": "tf.samir.kaninde.flutter.pms",
+      "app_store_app_id": "",
+      "ios_bundle_id": "tf.samir.kaninde.flutter.pms"
+    },
+    {
       "icon_url": "https://play-lh.googleusercontent.com/p0sqFViBA6vZGsrNIkk1bPxr-XF1iNs9wMaQaN85xQUl3FS6BGn0Iv11bo67xnVj2_R1W0u0X2MVIb1R_PMKv24%3Dw240-h480",
       "title_default": "Social Media Safe Text: 1337",
       "locale_titles": {
