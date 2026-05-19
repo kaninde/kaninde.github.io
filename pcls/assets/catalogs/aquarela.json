@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 2,
+  "catalogId": "pcls.colors.aquarela",
+  "catalogVersion": 1,
+  "defaultLocale": "en",
+  "name": "Watercolor (Aquarela)",
+  "entries": [
+    {
+      "id": "wash_cobalt",
+      "hex": "#4F86C6",
+      "names": { "en": "Cobalt Wash", "pt": "Lavagem Cobalto" },
+      "aliases": { "en": ["cobalt blue wash", "watercolor blue"], "pt": ["aquarela azul", "cobalto"] }
+    },
+    {
+      "id": "wash_cerulean",
+      "hex": "#6BB3D6",
+      "names": { "en": "Cerulean Wash", "pt": "Lavagem Cerúlea" },
+      "aliases": { "en": ["cerulean sky", "light blue wash"], "pt": ["ceruleo", "azul ceu aquarela"] }
+    },
+    {
+      "id": "wash_ultramarine",
+      "hex": "#1E3A8A",
+      "names": { "en": "Ultramarine Deep", "pt": "Ultramarino Profundo" },
+      "aliases": { "en": ["deep blue pigment", "ultramarine"], "pt": ["ultramarino", "azul profundo"] }
+    },
+    {
+      "id": "wash_prussian",
+      "hex": "#003153",
+      "names": { "en": "Prussian Mist", "pt": "Névoa Prussiana" },
+      "aliases": { "en": ["prussian blue", "inky blue"], "pt": ["azul prussiano", "aquarela escura"] }
+    },
+    {
+      "id": "wash_sap_green",
+      "hex": "#5B8C3E",
+      "names": { "en": "Sap Green Wash", "pt": "Verde Sap Wash" },
+      "aliases": { "en": ["sap green", "leaf wash"], "pt": ["verde folha", "aquarela verde"] }
+    },
+    {
+      "id": "wash_olive",
+      "hex": "#7D8471",
+      "names": { "en": "Olive Drift", "pt": "Deriva Oliva" },
+      "aliases": { "en": ["muted olive", "green gray wash"], "pt": ["verde oliva suave", "aquarela neutra"] }
+    },
+    {
+      "id": "wash_hooker",
+      "hex": "#3D5C3D",
+      "names": { "en": "Hooker's Green", "pt": "Verde Hooker" },
+      "aliases": { "en": ["hookers green", "forest wash"], "pt": ["verde floresta", "pigmento verde"] }
+    },
+    {
+      "id": "wash_yellow_ochre",
+      "hex": "#D4A84B",
+      "names": { "en": "Yellow Ochre Wash", "pt": "Ocre Amarelo Lavado" },
+      "aliases": { "en": ["yellow ochre", "warm wash"], "pt": ["ocre amarelo", "aquarela quente"] }
+    },
+    {
+      "id": "wash_raw_sienna",
+      "hex": "#C19A6B",
+      "names": { "en": "Raw Sienna", "pt": "Siena Natural" },
+      "aliases": { "en": ["raw sienna", "earth wash"], "pt": ["siena natural", "terra aquarela"] }
+    },
+    {
+      "id": "wash_burnt_sienna",
+      "hex": "#8A4B33",
+      "names": { "en": "Burnt Sienna", "pt": "Siena Queimada" },
+      "aliases": { "en": ["burnt sienna", "rust wash"], "pt": ["siena queimada", "marrom aquarela"] }
+    },
+    {
+      "id": "wash_raw_umber",
+      "hex": "#6B4423",
+      "names": { "en": "Raw Umber", "pt": "Umbra Natural" },
+      "aliases": { "en": ["raw umber", "brown earth"], "pt": ["umbra natural", "castanho terra"] }
+    },
+    {
+      "id": "wash_alizarin",
+      "hex": "#C2185B",
+      "names": { "en": "Alizarin Crimson", "pt": "Carmim Alizarina" },
+      "aliases": { "en": ["alizarin crimson", "rose pigment"], "pt": ["alizarina", "carmim aquarela"] }
+    },
+    {
+      "id": "wash_rose_madder",
+      "hex": "#E8A0A8",
+      "names": { "en": "Rose Madder", "pt": "Rubia Rosa" },
+      "aliases": { "en": ["madder rose", "pink wash"], "pt": ["rosa rubia", "aquarela rosa"] }
+    },
+    {
+      "id": "wash_quinacridone",
+      "hex": "#9E4770",
+      "names": { "en": "Quinacridone Rose", "pt": "Rosa Quinacridona" },
+      "aliases": { "en": ["quinacridone", "modern rose"], "pt": ["quinacridona", "rosa moderno"] }
+    },
+    {
+      "id": "wash_vermillion",
+      "hex": "#E34234",
+      "names": { "en": "Vermillion Splash", "pt": "Splash Vermelhão" },
+      "aliases": { "en": ["vermillion", "bright red wash"], "pt": ["vermelhao", "vermelho vivo"] }
+    },
+    {
+      "id": "wash_scarlet",
+      "hex": "#FF2400",
+      "names": { "en": "Scarlet Lake", "pt": "Lago Escarlate" },
+      "aliases": { "en": ["scarlet lake", "fiery wash"], "pt": ["escarlate", "vermelho lago"] }
+    },
+    {
+      "id": "wash_gamboge",
+      "hex": "#E8B923",
+      "names": { "en": "Gamboge Glow", "pt": "Brilho Gomaguta" },
+      "aliases": { "en": ["gamboge yellow", "golden wash"], "pt": ["gomaguta", "amarelo dourado"] }
+    },
+    {
+      "id": "wash_aureolin",
+      "hex": "#F8E473",
+      "names": { "en": "Aureolin Light", "pt": "Aureolina Clara" },
+      "aliases": { "en": ["aureolin", "lemon wash"], "pt": ["aureolina", "amarelo limao suave"] }
+    },
+    {
+      "id": "wash_payne_gray",
+      "hex": "#5D6B75",
+      "names": { "en": "Payne's Gray", "pt": "Cinza Payne" },
+      "aliases": { "en": ["paynes gray", "stormy neutral"], "pt": ["cinza payne", "neutro aquarela"] }
+    },
+    {
+      "id": "wash_neutral_tint",
+      "hex": "#8E9AA3",
+      "names": { "en": "Neutral Tint", "pt": "Tinta Neutra" },
+      "aliases": { "en": ["neutral tint", "gray wash"], "pt": ["tinta neutra", "cinza lavado"] }
+    },
+    {
+      "id": "wash_lamp_black",
+      "hex": "#2C2C2C",
+      "names": { "en": "Lamp Black Wash", "pt": "Lavagem Preto Fumo" },
+      "aliases": { "en": ["lamp black", "ink wash"], "pt": ["preto fumo", "aquarela preta"] }
+    },
+    {
+      "id": "wash_chinese_white",
+      "hex": "#F5F5F0",
+      "names": { "en": "Chinese White", "pt": "Branco Chinês" },
+      "aliases": { "en": ["paper white", "highlight white"], "pt": ["branco papel", "branco aquarela"] }
+    },
+    {
+      "id": "wash_dioxazine",
+      "hex": "#5B2C6F",
+      "names": { "en": "Dioxazine Purple", "pt": "Roxo Dioxazina" },
+      "aliases": { "en": ["dioxazine violet", "purple wash"], "pt": ["dioxazina", "roxo aquarela"] }
+    },
+    {
+      "id": "wash_perylene",
+      "hex": "#1B2631",
+      "names": { "en": "Perylene Green", "pt": "Verde Perylene" },
+      "aliases": { "en": ["perylene green", "dark green black"], "pt": ["perylene", "verde escuro"] }
+    },
+    {
+      "id": "wash_opera",
+      "hex": "#FF6FFF",
+      "names": { "en": "Opera Pink", "pt": "Rosa Ópera" },
+      "aliases": { "en": ["opera pink", "fluorescent wash"], "pt": ["rosa opera", "rosa fluorescente"] }
+    },
+    {
+      "id": "wash_bronze",
+      "hex": "#B08D57",
+      "names": { "en": "Bronze Mica", "pt": "Mica Bronze" },
+      "aliases": { "en": ["metallic bronze wash", "shimmer earth"], "pt": ["bronze mica", "dourado terra"] }
+    },
+    {
+      "id": "wet_paper",
+      "hex": "#E8DFD0",
+      "names": { "en": "Wet Paper Tone", "pt": "Tom Papel Molhado" },
+      "aliases": { "en": ["wet paper", "buckling tone"], "pt": ["papel molhado", "base aquarela"] }
+    },
+    {
+      "id": "granulation_blue",
+      "hex": "#4A6FA5",
+      "names": { "en": "Granulating Blue", "pt": "Azul Granulado" },
+      "aliases": { "en": ["granulation texture", "speckled blue"], "pt": ["granulacao azul", "textura aquarela"] }
+    }
+  ]
+}

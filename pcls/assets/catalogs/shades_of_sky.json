@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 2,
+  "catalogId": "pcls.colors.shades_of_sky",
+  "catalogVersion": 1,
+  "defaultLocale": "en",
+  "name": "Shades of Sky",
+  "entries": [
+    {
+      "id": "sky_midnight",
+      "hex": "#0B1026",
+      "names": { "en": "Midnight Sky", "pt": "Céu da Meia-Noite" },
+      "aliases": { "en": ["midnight blue sky", "deep night"], "pt": ["ceu meia noite", "azul noite"] }
+    },
+    {
+      "id": "sky_astral",
+      "hex": "#191970",
+      "names": { "en": "Astral Blue", "pt": "Azul Astral" },
+      "aliases": { "en": ["midnight blue", "starry sky"], "pt": ["azul astral", "ceu estrelado"] }
+    },
+    {
+      "id": "sky_twilight",
+      "hex": "#4B0082",
+      "names": { "en": "Twilight Violet", "pt": "Violeta do Crepúsculo" },
+      "aliases": { "en": ["twilight sky", "dusk violet"], "pt": ["crepusculo", "roxo ceu"] }
+    },
+    {
+      "id": "sky_dawn_rose",
+      "hex": "#FFB7C5",
+      "names": { "en": "Dawn Rose", "pt": "Rosa da Aurora" },
+      "aliases": { "en": ["dawn pink sky", "morning blush"], "pt": ["aurora rosa", "amanhecer"] }
+    },
+    {
+      "id": "sky_dawn_gold",
+      "hex": "#FFDAB9",
+      "names": { "en": "Dawn Gold", "pt": "Dourado da Aurora" },
+      "aliases": { "en": ["sunrise gold", "morning gold sky"], "pt": ["dourado aurora", "ceu manha"] }
+    },
+    {
+      "id": "sky_sunrise",
+      "hex": "#FF8C69",
+      "names": { "en": "Sunrise Coral", "pt": "Coral do Nascer do Sol" },
+      "aliases": { "en": ["sunrise orange", "morning coral sky"], "pt": ["nascer do sol", "laranja ceu"] }
+    },
+    {
+      "id": "sky_morning",
+      "hex": "#87CEFA",
+      "names": { "en": "Morning Sky", "pt": "Céu da Manhã" },
+      "aliases": { "en": ["light sky blue", "morning blue"], "pt": ["ceu manha", "azul claro"] }
+    },
+    {
+      "id": "sky_noon",
+      "hex": "#00BFFF",
+      "names": { "en": "Noon Sky", "pt": "Céu do Meio-Dia" },
+      "aliases": { "en": ["deep sky blue", "midday sky"], "pt": ["ceu meio dia", "azul intenso"] }
+    },
+    {
+      "id": "sky_zenith",
+      "hex": "#1E90FF",
+      "names": { "en": "Zenith Blue", "pt": "Azul do Zênite" },
+      "aliases": { "en": ["dodger blue sky", "overhead blue"], "pt": ["zenite", "azul zenite"] }
+    },
+    {
+      "id": "sky_summer",
+      "hex": "#4FC3F7",
+      "names": { "en": "Summer Sky", "pt": "Céu de Verão" },
+      "aliases": { "en": ["bright summer blue", "clear summer"], "pt": ["verao ceu", "azul verao"] }
+    },
+    {
+      "id": "sky_horizon",
+      "hex": "#B0E0E6",
+      "names": { "en": "Horizon Haze", "pt": "Névoa do Horizonte" },
+      "aliases": { "en": ["horizon blue", "hazy sky"], "pt": ["horizonte", "azul neblina"] }
+    },
+    {
+      "id": "sky_cloud_white",
+      "hex": "#F0F8FF",
+      "names": { "en": "Cloud White", "pt": "Branco de Nuvem" },
+      "aliases": { "en": ["cloud white sky", "alice blue"], "pt": ["nuvem branca", "ceu nublado claro"] }
+    },
+    {
+      "id": "sky_overcast",
+      "hex": "#9EADC8",
+      "names": { "en": "Overcast Gray", "pt": "Cinza Nublado" },
+      "aliases": { "en": ["overcast sky", "gray cloud cover"], "pt": ["ceu nublado", "cinza ceu"] }
+    },
+    {
+      "id": "sky_storm",
+      "hex": "#5D6D7E",
+      "names": { "en": "Storm Sky", "pt": "Céu de Tempestade" },
+      "aliases": { "en": ["storm gray blue", "thunder sky"], "pt": ["tempestade", "ceu tormenta"] }
+    },
+    {
+      "id": "sky_rain",
+      "hex": "#6C7A89",
+      "names": { "en": "Rain Sky", "pt": "Céu de Chuva" },
+      "aliases": { "en": ["rainy gray blue", "wet sky"], "pt": ["chuva", "ceu chuvoso"] }
+    },
+    {
+      "id": "sky_dusk",
+      "hex": "#6A5ACD",
+      "names": { "en": "Dusk Slate", "pt": "Ardósia do Entardecer" },
+      "aliases": { "en": ["slate blue dusk", "evening sky"], "pt": ["entardecer", "azul ardosia"] }
+    },
+    {
+      "id": "sky_sunset",
+      "hex": "#FF4500",
+      "names": { "en": "Sunset Blaze", "pt": "Chama do Pôr do Sol" },
+      "aliases": { "en": ["sunset orange red", "evening blaze"], "pt": ["por do sol", "laranja ceu"] }
+    },
+    {
+      "id": "sky_afterglow",
+      "hex": "#FF69B4",
+      "names": { "en": "Afterglow Pink", "pt": "Rosa do Resplendor" },
+      "aliases": { "en": ["afterglow", "pink sunset"], "pt": ["resplendor", "rosa ceu"] }
+    },
+    {
+      "id": "sky_polar",
+      "hex": "#E0FFFF",
+      "names": { "en": "Polar Sky", "pt": "Céu Polar" },
+      "aliases": { "en": ["icy sky", "light cyan sky"], "pt": ["ceu polar", "azul gelo"] }
+    },
+    {
+      "id": "sky_arctic",
+      "hex": "#AFEEEE",
+      "names": { "en": "Arctic Sky", "pt": "Céu Ártico" },
+      "aliases": { "en": ["pale turquoise sky", "cold sky"], "pt": ["artico", "turquesa ceu"] }
+    },
+    {
+      "id": "sky_desert",
+      "hex": "#C2B280",
+      "names": { "en": "Desert Haze Sky", "pt": "Céu do Deserto" },
+      "aliases": { "en": ["dusty sky", "desert horizon"], "pt": ["deserto ceu", "bege horizonte"] }
+    },
+    {
+      "id": "sky_ocean",
+      "hex": "#0077BE",
+      "names": { "en": "Ocean Meeting Sky", "pt": "Céu Encontrando o Mar" },
+      "aliases": { "en": ["ocean blue horizon", "sea sky line"], "pt": ["horizonte mar", "azul oceano"] }
+    },
+    {
+      "id": "sky_cirrus",
+      "hex": "#E6F2FF",
+      "names": { "en": "Cirrus Wisp", "pt": "Fio de Cirro" },
+      "aliases": { "en": ["wispy cloud", "high cloud white"], "pt": ["cirro", "nuvem alta"] }
+    },
+    {
+      "id": "sky_cumulus",
+      "hex": "#FFFFFF",
+      "names": { "en": "Cumulus Bright", "pt": "Cúmulo Brilhante" },
+      "aliases": { "en": ["fluffy cloud white", "cumulus"], "pt": ["cumulo", "nuvem branca"] }
+    },
+    {
+      "id": "sky_nimbus",
+      "hex": "#708090",
+      "names": { "en": "Nimbus Gray", "pt": "Nimbo Cinza" },
+      "aliases": { "en": ["rain cloud gray", "nimbus"], "pt": ["nimbo", "nuvem chuva"] }
+    },
+    {
+      "id": "sky_light_pollution",
+      "hex": "#F5E6C8",
+      "names": { "en": "City Glow Sky", "pt": "Céu com Poluição Lumínica" },
+      "aliases": { "en": ["light pollution", "urban night glow"], "pt": ["poluicao luminica", "ceu cidade"] }
+    },
+    {
+      "id": "sky_eclipse",
+      "hex": "#2C1810",
+      "names": { "en": "Eclipse Dusk", "pt": "Crepúsculo do Eclipse" },
+      "aliases": { "en": ["eclipse sky", "dark copper sky"], "pt": ["eclipse", "ceu escuro"] }
+    },
+    {
+      "id": "sky_moonlit",
+      "hex": "#3D5A80",
+      "names": { "en": "Moonlit Blue", "pt": "Azul ao Luar" },
+      "aliases": { "en": ["moonlight blue", "night silver sky"], "pt": ["luar", "azul luar"] }
+    }
+  ]
+}

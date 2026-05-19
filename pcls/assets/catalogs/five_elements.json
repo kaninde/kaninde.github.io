@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 2,
+  "catalogId": "pcls.colors.five_elements",
+  "catalogVersion": 1,
+  "defaultLocale": "en",
+  "name": "Shades of the Five Elements",
+  "entries": [
+    {
+      "id": "wood_spring_bamboo",
+      "hex": "#4A7C59",
+      "names": { "en": "Spring Bamboo", "pt": "Bambu da Primavera" },
+      "aliases": { "en": ["wood element", "mu wood green"], "pt": ["elemento madeira", "madeira verde"] }
+    },
+    {
+      "id": "wood_jade",
+      "hex": "#00A86B",
+      "names": { "en": "Wood Jade", "pt": "Jade da Madeira" },
+      "aliases": { "en": ["jade green", "wood jade"], "pt": ["jade", "verde jade"] }
+    },
+    {
+      "id": "wood_cypress",
+      "hex": "#2E5C3E",
+      "names": { "en": "Cypress Wood", "pt": "Cipreste" },
+      "aliases": { "en": ["cypress green", "forest wood"], "pt": ["cipreste", "verde cipreste"] }
+    },
+    {
+      "id": "wood_sprout",
+      "hex": "#90EE90",
+      "names": { "en": "Wood Sprout", "pt": "Broto de Madeira" },
+      "aliases": { "en": ["young wood", "sprout green"], "pt": ["broto", "verde broto"] }
+    },
+    {
+      "id": "wood_teal",
+      "hex": "#008080",
+      "names": { "en": "Wood Teal", "pt": "Verde-azulado Madeira" },
+      "aliases": { "en": ["wood teal", "blue green wood"], "pt": ["madeira azulada", "verde azul"] }
+    },
+    {
+      "id": "fire_cinnabar",
+      "hex": "#E34234",
+      "names": { "en": "Cinnabar Fire", "pt": "Fogo Cinábrio" },
+      "aliases": { "en": ["fire element", "huo fire red"], "pt": ["elemento fogo", "fogo vermelho"] }
+    },
+    {
+      "id": "fire_crimson",
+      "hex": "#DC143C",
+      "names": { "en": "Crimson Flame", "pt": "Chama Carmim" },
+      "aliases": { "en": ["crimson fire", "deep flame"], "pt": ["carmim", "chama carmim"] }
+    },
+    {
+      "id": "fire_ember",
+      "hex": "#FF4500",
+      "names": { "en": "Ember Glow", "pt": "Brasa Viva" },
+      "aliases": { "en": ["ember orange", "glowing ember"], "pt": ["brasa", "laranja brasa"] }
+    },
+    {
+      "id": "fire_scarlet",
+      "hex": "#FF2400",
+      "names": { "en": "Scarlet Fire", "pt": "Fogo Escarlate" },
+      "aliases": { "en": ["scarlet flame", "bright fire"], "pt": ["escarlate", "fogo vivo"] }
+    },
+    {
+      "id": "fire_rose",
+      "hex": "#FF6B6B",
+      "names": { "en": "Fire Rose", "pt": "Rosa de Fogo" },
+      "aliases": { "en": ["soft fire", "rose flame"], "pt": ["rosa fogo", "fogo suave"] }
+    },
+    {
+      "id": "earth_ochre",
+      "hex": "#CC7722",
+      "names": { "en": "Earth Ochre", "pt": "Ocre da Terra" },
+      "aliases": { "en": ["earth element", "tu earth yellow"], "pt": ["elemento terra", "terra ocre"] }
+    },
+    {
+      "id": "earth_sienna",
+      "hex": "#A0522D",
+      "names": { "en": "Earth Sienna", "pt": "Siena da Terra" },
+      "aliases": { "en": ["sienna earth", "brown earth"], "pt": ["siena terra", "marrom terra"] }
+    },
+    {
+      "id": "earth_clay",
+      "hex": "#B87333",
+      "names": { "en": "Clay Earth", "pt": "Terra Argilosa" },
+      "aliases": { "en": ["clay earth", "terracotta earth"], "pt": ["argila", "terra barro"] }
+    },
+    {
+      "id": "earth_wheat",
+      "hex": "#F5DEB3",
+      "names": { "en": "Wheat Earth", "pt": "Terra do Trigo" },
+      "aliases": { "en": ["wheat field earth", "pale earth"], "pt": ["trigo", "terra clara"] }
+    },
+    {
+      "id": "earth_amber",
+      "hex": "#FFBF00",
+      "names": { "en": "Amber Earth", "pt": "Terra Âmbar" },
+      "aliases": { "en": ["amber earth", "golden earth"], "pt": ["ambar terra", "dourado terra"] }
+    },
+    {
+      "id": "metal_silver",
+      "hex": "#C0C0C0",
+      "names": { "en": "Silver Metal", "pt": "Metal Prata" },
+      "aliases": { "en": ["metal element", "jin metal silver"], "pt": ["elemento metal", "metal prata"] }
+    },
+    {
+      "id": "metal_steel",
+      "hex": "#71797E",
+      "names": { "en": "Steel Gray", "pt": "Cinza Aço" },
+      "aliases": { "en": ["steel metal", "gray metal"], "pt": ["aco", "cinza metal"] }
+    },
+    {
+      "id": "metal_pewter",
+      "hex": "#8B8589",
+      "names": { "en": "Pewter", "pt": "Peltre" },
+      "aliases": { "en": ["pewter gray", "muted metal"], "pt": ["peltre", "cinza peltre"] }
+    },
+    {
+      "id": "metal_platinum",
+      "hex": "#E5E4E2",
+      "names": { "en": "Platinum", "pt": "Platina" },
+      "aliases": { "en": ["platinum white", "light metal"], "pt": ["platina", "branco metal"] }
+    },
+    {
+      "id": "metal_iron",
+      "hex": "#48494B",
+      "names": { "en": "Iron Metal", "pt": "Metal Ferro" },
+      "aliases": { "en": ["iron gray", "dark metal"], "pt": ["ferro", "cinza ferro"] }
+    },
+    {
+      "id": "water_ink",
+      "hex": "#0F0F1A",
+      "names": { "en": "Ink Water", "pt": "Água Tinta" },
+      "aliases": { "en": ["water element", "shui water black"], "pt": ["elemento agua", "agua preta"] }
+    },
+    {
+      "id": "water_abyss",
+      "hex": "#1B263B",
+      "names": { "en": "Abyss Blue", "pt": "Azul Abismo" },
+      "aliases": { "en": ["deep water", "abyss blue"], "pt": ["abismo", "azul profundo"] }
+    },
+    {
+      "id": "water_indigo",
+      "hex": "#274690",
+      "names": { "en": "Indigo Water", "pt": "Água Anil" },
+      "aliases": { "en": ["indigo water", "night water"], "pt": ["anil", "agua anil"] }
+    },
+    {
+      "id": "water_teal_deep",
+      "hex": "#006D77",
+      "names": { "en": "Deep Teal Water", "pt": "Água Verde-azul Profunda" },
+      "aliases": { "en": ["teal water", "ocean deep"], "pt": ["agua teal", "verde azul agua"] }
+    },
+    {
+      "id": "water_mist",
+      "hex": "#B8D4E3",
+      "names": { "en": "Water Mist", "pt": "Névoa d'Água" },
+      "aliases": { "en": ["mist water", "pale water blue"], "pt": ["neblina agua", "agua clara"] }
+    },
+    {
+      "id": "balance_center",
+      "hex": "#F5F5DC",
+      "names": { "en": "Center Balance", "pt": "Centro do Equilíbrio" },
+      "aliases": { "en": ["five elements center", "neutral balance"], "pt": ["centro elementos", "equilibrio"] }
+    },
+    {
+      "id": "yin_soft",
+      "hex": "#2F2F3A",
+      "names": { "en": "Yin Soft Black", "pt": "Yin Suave" },
+      "aliases": { "en": ["yin dark", "receptive black"], "pt": ["yin", "preto yin"] }
+    },
+    {
+      "id": "yang_light",
+      "hex": "#FFFEF5",
+      "names": { "en": "Yang Bright", "pt": "Yang Brilhante" },
+      "aliases": { "en": ["yang white", "active light"], "pt": ["yang", "branco yang"] }
+    }
+  ]
+}

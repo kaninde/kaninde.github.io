@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 2,
+  "catalogId": "pcls.colors.mes_de_maio",
+  "catalogVersion": 1,
+  "defaultLocale": "en",
+  "name": "May Colors",
+  "entries": [
+    {
+      "id": "maio_bougainvillea",
+      "hex": "#C71585",
+      "names": { "en": "May Bougainvillea", "pt": "Buganvília de Maio" },
+      "aliases": { "en": ["bougainvillea magenta", "may flower"], "pt": ["buganvilia", "maio flor"] }
+    },
+    {
+      "id": "maio_mothers_carnation",
+      "hex": "#FF69B4",
+      "names": { "en": "Mother's Carnation", "pt": "Cravo das Mães" },
+      "aliases": { "en": ["mothers day pink", "carnation"], "pt": ["dia das maes", "cravo rosa"] }
+    },
+    {
+      "id": "maio_lily_valley",
+      "hex": "#F8F8FF",
+      "names": { "en": "Lily of the Valley", "pt": "Lírio do Vale" },
+      "aliases": { "en": ["lily of valley white", "may bell"], "pt": ["lírio do vale", "branco maio"] }
+    },
+    {
+      "id": "maio_hawthorn",
+      "hex": "#FFB7C5",
+      "names": { "en": "Hawthorn Bloom", "pt": "Flor de Pilriteiro" },
+      "aliases": { "en": ["hawthorn pink", "may blossom"], "pt": ["pilriteiro", "rosa pilriteiro"] }
+    },
+    {
+      "id": "maio_laburnum",
+      "hex": "#FFD700",
+      "names": { "en": "Laburnum Gold", "pt": "Ouro de Laburno" },
+      "aliases": { "en": ["golden chain", "may yellow"], "pt": ["laburno", "amarelo maio"] }
+    },
+    {
+      "id": "maio_chestnut_bloom",
+      "hex": "#FFE4E1",
+      "names": { "en": "Chestnut Candle", "pt": "Vela de Castanheira" },
+      "aliases": { "en": ["chestnut blossom", "pale pink candle"], "pt": ["castanheira flor", "rosa claro"] }
+    },
+    {
+      "id": "maio_autumn_leaf",
+      "hex": "#CD853F",
+      "names": { "en": "Late Autumn Leaf", "pt": "Folha de Outono Tardio" },
+      "aliases": { "en": ["may autumn south", "golden leaf"], "pt": ["outono maio", "folha dourada"] }
+    },
+    {
+      "id": "maio_mist_morning",
+      "hex": "#D3D9E3",
+      "names": { "en": "May Morning Mist", "pt": "Névoa de Manhã de Maio" },
+      "aliases": { "en": ["misty gray blue", "cool morning"], "pt": ["neblina maio", "cinza manha"] }
+    },
+    {
+      "id": "maio_dew_grass",
+      "hex": "#9ACD32",
+      "names": { "en": "Dewy May Grass", "pt": "Grama com Orvalho" },
+      "aliases": { "en": ["spring grass", "dew green"], "pt": ["grama orvalho", "verde maio"] }
+    },
+    {
+      "id": "maio_workers_red",
+      "hex": "#DC143C",
+      "names": { "en": "Labor Banner Red", "pt": "Vermelho do Trabalhador" },
+      "aliases": { "en": ["may day red", "labor red"], "pt": ["dia do trabalho", "vermelho maio"] }
+    },
+    {
+      "id": "maio_lavender_field",
+      "hex": "#B57EDC",
+      "names": { "en": "Lavender Field", "pt": "Campo de Lavanda" },
+      "aliases": { "en": ["lavender purple", "spring lavender"], "pt": ["lavanda", "roxo lavanda"] }
+    },
+    {
+      "id": "maio_iris_purple",
+      "hex": "#5D3FD3",
+      "names": { "en": "May Iris", "pt": "Íris de Maio" },
+      "aliases": { "en": ["iris purple", "flag iris"], "pt": ["iris", "roxo iris"] }
+    },
+    {
+      "id": "maio_peony_blush",
+      "hex": "#F4C2C2",
+      "names": { "en": "Peony Blush", "pt": "Blush de Peônia" },
+      "aliases": { "en": ["peony pink", "soft bloom"], "pt": ["peonia", "rosa peonia"] }
+    },
+    {
+      "id": "maio_wisteria",
+      "hex": "#C9A0DC",
+      "names": { "en": "Wisteria Cascade", "pt": "Cascata de Glicínia" },
+      "aliases": { "en": ["wisteria lilac", "hanging purple"], "pt": ["glicinia", "lilas glicinia"] }
+    },
+    {
+      "id": "maio_chamomile",
+      "hex": "#FFFACD",
+      "names": { "en": "Chamomile Meadow", "pt": "Prado de Camomila" },
+      "aliases": { "en": ["chamomile yellow", "meadow flower"], "pt": ["camomila", "amarelo camomila"] }
+    },
+    {
+      "id": "maio_copper_beech",
+      "hex": "#A0522D",
+      "names": { "en": "Copper Beech", "pt": "Faia Rubra" },
+      "aliases": { "en": ["copper leaf", "purple beech"], "pt": ["faia cobre", "marrom folha"] }
+    },
+    {
+      "id": "maio_twilight_mauve",
+      "hex": "#8B7B8B",
+      "names": { "en": "May Twilight Mauve", "pt": "Malva do Crepúsculo de Maio" },
+      "aliases": { "en": ["twilight mauve", "dusk purple gray"], "pt": ["crepusculo maio", "malva tarde"] }
+    },
+    {
+      "id": "maio_clear_sky",
+      "hex": "#87CEEB",
+      "names": { "en": "Clear May Sky", "pt": "Céu Limpo de Maio" },
+      "aliases": { "en": ["may sky blue", "clear spring sky"], "pt": ["ceu maio", "azul ceu claro"] }
+    },
+    {
+      "id": "maio_apple_blossom",
+      "hex": "#FFB6C1",
+      "names": { "en": "Apple Blossom", "pt": "Flor de Macieira" },
+      "aliases": { "en": ["apple flower pink", "orchard bloom"], "pt": ["macieira", "rosa maca"] }
+    },
+    {
+      "id": "maio_poppy_field",
+      "hex": "#E32636",
+      "names": { "en": "Poppy Field", "pt": "Campo de Papoulas" },
+      "aliases": { "en": ["red poppy", "field poppy"], "pt": ["papoula", "vermelho papoula"] }
+    },
+    {
+      "id": "maio_jasmine",
+      "hex": "#FFFEF0",
+      "names": { "en": "Night Jasmine", "pt": "Jasmim da Noite" },
+      "aliases": { "en": ["jasmine white", "may night flower"], "pt": ["jasmim", "branco jasmim"] }
+    },
+    {
+      "id": "maio_hydrangea",
+      "hex": "#6F8FAF",
+      "names": { "en": "Hydrangea Blue", "pt": "Hortênsia Azul" },
+      "aliases": { "en": ["hydrangea", "may blue flower"], "pt": ["hortensia", "azul hortensia"] }
+    },
+    {
+      "id": "maio_sunbeam",
+      "hex": "#FFE87C",
+      "names": { "en": "May Sunbeam", "pt": "Raio de Sol de Maio" },
+      "aliases": { "en": ["sunbeam yellow", "warm may light"], "pt": ["sol maio", "amarelo sol"] }
+    },
+    {
+      "id": "maio_rose_may",
+      "hex": "#E75480",
+      "names": { "en": "May Rose", "pt": "Rosa de Maio" },
+      "aliases": { "en": ["spring rose", "pink may rose"], "pt": ["rosa primavera", "rosa maio"] }
+    },
+    {
+      "id": "maio_fog_valley",
+      "hex": "#B0C4DE",
+      "names": { "en": "Foggy Valley", "pt": "Vale Ennevoado" },
+      "aliases": { "en": ["valley fog", "soft blue gray"], "pt": ["vale neblina", "azul neblina"] }
+    },
+    {
+      "id": "maio_emerald_canopy",
+      "hex": "#50C878",
+      "names": { "en": "Emerald Canopy", "pt": "Copa Esmeralda" },
+      "aliases": { "en": ["canopy green", "may forest"], "pt": ["verde copa", "floresta maio"] }
+    },
+    {
+      "id": "maio_golden_hour",
+      "hex": "#FFC04C",
+      "names": { "en": "Golden Hour May", "pt": "Hora Dourada de Maio" },
+      "aliases": { "en": ["golden hour", "warm evening"], "pt": ["hora dourada", "entardecer maio"] }
+    },
+    {
+      "id": "maio_lilac_scent",
+      "hex": "#DDA0DD",
+      "names": { "en": "Lilac Scent", "pt": "Perfume de Lilás" },
+      "aliases": { "en": ["lilac may", "purple lilac"], "pt": ["lilas", "roxo lilas"] }
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 2,
+  "catalogId": "pcls.colors.frutos_do_mar",
+  "catalogVersion": 1,
+  "defaultLocale": "en",
+  "name": "Seafood Colors",
+  "entries": [
+    {
+      "id": "salmon_fillet",
+      "hex": "#FA8072",
+      "names": { "en": "Salmon Fillet", "pt": "Filé de Salmão" },
+      "aliases": { "en": ["salmon pink", "fish fillet"], "pt": ["salmao", "rosa salmao"] }
+    },
+    {
+      "id": "shrimp_coral",
+      "hex": "#FF7F6A",
+      "names": { "en": "Shrimp Coral", "pt": "Coral de Camarão" },
+      "aliases": { "en": ["shrimp pink", "coral seafood"], "pt": ["camarao", "rosa camarao"] }
+    },
+    {
+      "id": "lobster_shell",
+      "hex": "#C24B3A",
+      "names": { "en": "Lobster Shell", "pt": "Casca de Lagosta" },
+      "aliases": { "en": ["lobster red", "shellfish red"], "pt": ["lagosta", "vermelho lagosta"] }
+    },
+    {
+      "id": "crab_roe",
+      "hex": "#FF6B35",
+      "names": { "en": "Crab Roe", "pt": "Ovas de Caranguejo" },
+      "aliases": { "en": ["crab orange", "roe orange"], "pt": ["caranguejo", "laranja ovas"] }
+    },
+    {
+      "id": "oyster_pearl",
+      "hex": "#F0EAD6",
+      "names": { "en": "Oyster Pearl", "pt": "Pérola de Ostra" },
+      "aliases": { "en": ["pearl white", "oyster cream"], "pt": ["ostra", "perola", "creme ostra"] }
+    },
+    {
+      "id": "clam_cream",
+      "hex": "#FFF5E1",
+      "names": { "en": "Clam Cream", "pt": "Creme de Marisco" },
+      "aliases": { "en": ["clam white", "seafood cream"], "pt": ["marisco", "branco marisco"] }
+    },
+    {
+      "id": "squid_ink",
+      "hex": "#1A1A2E",
+      "names": { "en": "Squid Ink", "pt": "Tinta de Lula" },
+      "aliases": { "en": ["cuttlefish ink", "sea black"], "pt": ["tinta de lula", "preto mar"] }
+    },
+    {
+      "id": "mussel_blue",
+      "hex": "#2E4A62",
+      "names": { "en": "Mussel Shell", "pt": "Concha de Mexilhão" },
+      "aliases": { "en": ["mussel blue", "shell blue gray"], "pt": ["mexilhao", "azul concha"] }
+    },
+    {
+      "id": "abalone_iris",
+      "hex": "#8E7CC3",
+      "names": { "en": "Abalone Iris", "pt": "Iris de Abalone" },
+      "aliases": { "en": ["abalone shell", "pearlescent purple"], "pt": ["abalone", "madreperola roxa"] }
+    },
+    {
+      "id": "scallop_ivory",
+      "hex": "#F5E6D3",
+      "names": { "en": "Scallop Ivory", "pt": "Marfim de Vieira" },
+      "aliases": { "en": ["scallop shell", "ivory seafood"], "pt": ["vieira", "marfim vieira"] }
+    },
+    {
+      "id": "tuna_steak",
+      "hex": "#8B3A3A",
+      "names": { "en": "Tuna Steak", "pt": "Bife de Atum" },
+      "aliases": { "en": ["tuna red", "deep fish red"], "pt": ["atum", "vermelho atum"] }
+    },
+    {
+      "id": "sardine_silver",
+      "hex": "#A8B5B8",
+      "names": { "en": "Sardine Silver", "pt": "Prata de Sardinha" },
+      "aliases": { "en": ["sardine scale", "fish silver"], "pt": ["sardinha", "prata peixe"] }
+    },
+    {
+      "id": "anchovy_gray",
+      "hex": "#6B7B83",
+      "names": { "en": "Anchovy Gray", "pt": "Cinza de Anchova" },
+      "aliases": { "en": ["anchovy", "muted fish gray"], "pt": ["anchova", "cinza peixe"] }
+    },
+    {
+      "id": "octopus_mauve",
+      "hex": "#9B6B8A",
+      "names": { "en": "Octopus Mauve", "pt": "Malva de Polvo" },
+      "aliases": { "en": ["octopus tone", "sea mauve"], "pt": ["polvo", "malva mar"] }
+    },
+    {
+      "id": "sea_urchin",
+      "hex": "#4A3728",
+      "names": { "en": "Sea Urchin", "pt": "Ouriço do Mar" },
+      "aliases": { "en": ["urchin brown", "spiny brown"], "pt": ["ourico", "marrom ourico"] }
+    },
+    {
+      "id": "coral_reef",
+      "hex": "#FF6F61",
+      "names": { "en": "Coral Reef", "pt": "Recife de Coral" },
+      "aliases": { "en": ["living coral", "reef pink"], "pt": ["coral vivo", "rosa recife"] }
+    },
+    {
+      "id": "seaweed_green",
+      "hex": "#2E6B4F",
+      "names": { "en": "Seaweed Green", "pt": "Verde Alga" },
+      "aliases": { "en": ["kelp green", "sea vegetable"], "pt": ["alga marinha", "verde alga"] }
+    },
+    {
+      "id": "nori_black",
+      "hex": "#2F4F3E",
+      "names": { "en": "Nori Black", "pt": "Preto Nori" },
+      "aliases": { "en": ["nori seaweed", "dark sea green"], "pt": ["nori", "alga escura"] }
+    },
+    {
+      "id": "seafoam_broth",
+      "hex": "#93E9BE",
+      "names": { "en": "Seafoam Broth", "pt": "Caldo Espuma do Mar" },
+      "aliases": { "en": ["seafoam", "light ocean green"], "pt": ["espuma do mar", "verde agua"] }
+    },
+    {
+      "id": "bisque_broth",
+      "hex": "#F4C2A1",
+      "names": { "en": "Bisque Broth", "pt": "Bisque de Frutos do Mar" },
+      "aliases": { "en": ["seafood bisque", "shellfish soup"], "pt": ["bisque", "sopa mariscos"] }
+    },
+    {
+      "id": "bouillabaisse",
+      "hex": "#E07A3A",
+      "names": { "en": "Bouillabaisse", "pt": "Bouillabaisse" },
+      "aliases": { "en": ["fish stew orange", "provence seafood"], "pt": ["caldeirada", "laranja peixe"] }
+    },
+    {
+      "id": "caviar_black",
+      "hex": "#0D0D0D",
+      "names": { "en": "Caviar Black", "pt": "Preto Caviar" },
+      "aliases": { "en": ["caviar", "sturgeon black"], "pt": ["caviar", "preto ovas"] }
+    },
+    {
+      "id": "roe_amber",
+      "hex": "#FF9F1C",
+      "names": { "en": "Roe Amber", "pt": "Âmbar de Ovas" },
+      "aliases": { "en": ["fish roe orange", "amber eggs"], "pt": ["ovas peixe", "ambar ovas"] }
+    },
+    {
+      "id": "prawn_strip",
+      "hex": "#FF8C69",
+      "names": { "en": "Prawn Stripe", "pt": "Listra de Camarão" },
+      "aliases": { "en": ["prawn orange", "striped shrimp"], "pt": ["camarao gigante", "laranja camarao"] }
+    },
+    {
+      "id": "oyster_gray",
+      "hex": "#B8B5AD",
+      "names": { "en": "Oyster Gray", "pt": "Cinza Ostra" },
+      "aliases": { "en": ["oyster shell gray", "neutral shell"], "pt": ["cinza ostra", "concha neutra"] }
+    },
+    {
+      "id": "ice_seafood",
+      "hex": "#D4F1F9",
+      "names": { "en": "On Ice", "pt": "Sobre Gelo" },
+      "aliases": { "en": ["iced seafood", "chilled display"], "pt": ["frutos do mar gelo", "azul gelo"] }
+    },
+    {
+      "id": "lemon_garnish",
+      "hex": "#FFF44F",
+      "names": { "en": "Lemon Garnish", "pt": "Limão de Guarnição" },
+      "aliases": { "en": ["seafood lemon", "citrus garnish"], "pt": ["limao peixe", "guarnicao"] }
+    },
+    {
+      "id": "parsley_fish",
+      "hex": "#3CB371",
+      "names": { "en": "Parsley Platter", "pt": "Prato com Salsinha" },
+      "aliases": { "en": ["herb garnish green", "fish plate green"], "pt": ["salsinha", "verde guarnicao"] }
+    }
+  ]
+}

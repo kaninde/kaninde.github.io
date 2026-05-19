@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "catalogs": [
+    {
+      "id": "pcls.colors.nordeste",
+      "version": 1,
+      "name": "Brazilian Northeast Colors",
+      "url": "https://samir.tf/pcls/assets/catalogs/nordeste_brazil.json"
+    },
+    {
+      "id": "pcls.colors.aquarela",
+      "version": 1,
+      "name": "Watercolor (Aquarela)",
+      "url": "https://samir.tf/pcls/assets/catalogs/aquarela.json"
+    },
+    {
+      "id": "pcls.colors.frutos_do_mar",
+      "version": 1,
+      "name": "Seafood Colors",
+      "url": "https://samir.tf/pcls/assets/catalogs/frutos_do_mar.json"
+    },
+    {
+      "id": "pcls.colors.mes_de_maio",
+      "version": 1,
+      "name": "May Colors",
+      "url": "https://samir.tf/pcls/assets/catalogs/mes_de_maio.json"
+    },
+    {
+      "id": "pcls.colors.frutas_tropicais",
+      "version": 1,
+      "name": "Tropical Fruits",
+      "url": "https://samir.tf/pcls/assets/catalogs/frutas_tropicais.json"
+    },
+    {
+      "id": "pcls.colors.shades_of_sky",
+      "version": 1,
+      "name": "Shades of Sky",
+      "url": "https://samir.tf/pcls/assets/catalogs/shades_of_sky.json"
+    },
+    {
+      "id": "pcls.colors.grass_and_earth",
+      "version": 1,
+      "name": "Grass and Earth",
+      "url": "https://samir.tf/pcls/assets/catalogs/grass_and_earth.json"
+    },
+    {
+      "id": "pcls.colors.five_elements",
+      "version": 1,
+      "name": "Shades of the Five Elements",
+      "url": "https://samir.tf/pcls/assets/catalogs/five_elements.json"
+    }
+  ]
+}

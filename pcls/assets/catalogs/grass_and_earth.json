@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 2,
+  "catalogId": "pcls.colors.grass_and_earth",
+  "catalogVersion": 1,
+  "defaultLocale": "en",
+  "name": "Grass and Earth",
+  "entries": [
+    {
+      "id": "meadow_spring",
+      "hex": "#7CFC00",
+      "names": { "en": "Spring Meadow", "pt": "Prado da Primavera" },
+      "aliases": { "en": ["meadow green", "spring grass"], "pt": ["prado verde", "grama primavera"] }
+    },
+    {
+      "id": "lawn_fresh",
+      "hex": "#4CBB17",
+      "names": { "en": "Fresh Lawn", "pt": "Gramado Fresco" },
+      "aliases": { "en": ["lawn green", "fresh grass"], "pt": ["gramado", "verde gramado"] }
+    },
+    {
+      "id": "fern_deep",
+      "hex": "#228B22",
+      "names": { "en": "Deep Fern", "pt": "Samambaia Profunda" },
+      "aliases": { "en": ["forest fern", "deep green"], "pt": ["samambaia", "verde samambaia"] }
+    },
+    {
+      "id": "moss_cushion",
+      "hex": "#8A9A5B",
+      "names": { "en": "Moss Cushion", "pt": "Almofada de Musgo" },
+      "aliases": { "en": ["moss green", "cushion moss"], "pt": ["musgo", "verde musgo"] }
+    },
+    {
+      "id": "lichen_gray",
+      "hex": "#9FA989",
+      "names": { "en": "Lichen Gray", "pt": "Cinza de Líquen" },
+      "aliases": { "en": ["lichen", "stone lichen"], "pt": ["liquen", "cinza liquen"] }
+    },
+    {
+      "id": "savanna_dry",
+      "hex": "#C4B454",
+      "names": { "en": "Dry Savanna", "pt": "Savana Seca" },
+      "aliases": { "en": ["savanna grass", "dry yellow green"], "pt": ["savana", "amarelo seco"] }
+    },
+    {
+      "id": "bamboo_leaf",
+      "hex": "#6B8E23",
+      "names": { "en": "Bamboo Leaf", "pt": "Folha de Bambu" },
+      "aliases": { "en": ["bamboo green", "olive leaf"], "pt": ["bambu", "verde bambu"] }
+    },
+    {
+      "id": "clover_field",
+      "hex": "#3CB371",
+      "names": { "en": "Clover Field", "pt": "Campo de Trevo" },
+      "aliases": { "en": ["clover green", "shamrock field"], "pt": ["trevo", "verde trevo"] }
+    },
+    {
+      "id": "wheat_straw",
+      "hex": "#E4D96F",
+      "names": { "en": "Wheat Straw", "pt": "Palha de Trigo" },
+      "aliases": { "en": ["straw yellow", "harvest grass"], "pt": ["palha", "trigo seco"] }
+    },
+    {
+      "id": "topsoil_rich",
+      "hex": "#3E2723",
+      "names": { "en": "Rich Topsoil", "pt": "Solo Fértil" },
+      "aliases": { "en": ["dark soil", "rich earth"], "pt": ["solo fertil", "terra escura"] }
+    },
+    {
+      "id": "loam_warm",
+      "hex": "#5D4037",
+      "names": { "en": "Warm Loam", "pt": "Argila Quente" },
+      "aliases": { "en": ["loam brown", "warm soil"], "pt": ["argila", "marrom terra"] }
+    },
+    {
+      "id": "clay_red",
+      "hex": "#A0522D",
+      "names": { "en": "Red Clay", "pt": "Barro Vermelho" },
+      "aliases": { "en": ["terracotta clay", "red earth"], "pt": ["barro vermelho", "terra roxa"] }
+    },
+    {
+      "id": "laterite",
+      "hex": "#B7410E",
+      "names": { "en": "Laterite", "pt": "Laterita" },
+      "aliases": { "en": ["laterite soil", "iron rich earth"], "pt": ["laterita", "solo ferruginoso"] }
+    },
+    {
+      "id": "sand_light",
+      "hex": "#EDC9AF",
+      "names": { "en": "Light Sand", "pt": "Areia Clara" },
+      "aliases": { "en": ["sandy soil", "beach sand earth"], "pt": ["areia clara", "solo arenoso"] }
+    },
+    {
+      "id": "peat_dark",
+      "hex": "#2F1B0C",
+      "names": { "en": "Peat Dark", "pt": "Turfa Escura" },
+      "aliases": { "en": ["peat soil", "bog earth"], "pt": ["turfa", "terra pantanosa"] }
+    },
+    {
+      "id": "humus_black",
+      "hex": "#1B1B1B",
+      "names": { "en": "Humus Black", "pt": "Húmus Negro" },
+      "aliases": { "en": ["humus", "organic soil"], "pt": ["humus", "solo organico"] }
+    },
+    {
+      "id": "root_brown",
+      "hex": "#6F4E37",
+      "names": { "en": "Root Brown", "pt": "Marrom de Raiz" },
+      "aliases": { "en": ["root soil", "underground brown"], "pt": ["raiz", "marrom raiz"] }
+    },
+    {
+      "id": "bark_oak",
+      "hex": "#5C4033",
+      "names": { "en": "Oak Bark", "pt": "Casca de Carvalho" },
+      "aliases": { "en": ["tree bark", "oak brown"], "pt": ["casca carvalho", "marrom casca"] }
+    },
+    {
+      "id": "bark_pine",
+      "hex": "#4A3728",
+      "names": { "en": "Pine Bark", "pt": "Casca de Pinheiro" },
+      "aliases": { "en": ["pine bark", "forest bark"], "pt": ["casca pinheiro", "marrom pinheiro"] }
+    },
+    {
+      "id": "mulch_forest",
+      "hex": "#3D2B1F",
+      "names": { "en": "Forest Mulch", "pt": "Cobertura Florestal" },
+      "aliases": { "en": ["wood mulch", "forest floor"], "pt": ["cobertura morta", "chao floresta"] }
+    },
+    {
+      "id": "leaf_litter",
+      "hex": "#8B6914",
+      "names": { "en": "Leaf Litter", "pt": "Serrapilheira" },
+      "aliases": { "en": ["fallen leaves", "autumn litter"], "pt": ["serrapilheira", "folhas secas"] }
+    },
+    {
+      "id": "riverbank_mud",
+      "hex": "#826644",
+      "names": { "en": "Riverbank Mud", "pt": "Lama da Margem" },
+      "aliases": { "en": ["river mud", "bank soil"], "pt": ["lama rio", "margem barro"] }
+    },
+    {
+      "id": "chalk_white",
+      "hex": "#F5F5DC",
+      "names": { "en": "Chalk White", "pt": "Branco Giz" },
+      "aliases": { "en": ["chalk soil", "limestone white"], "pt": ["giz", "calcario claro"] }
+    },
+    {
+      "id": "limestone",
+      "hex": "#D6C6B8",
+      "names": { "en": "Limestone", "pt": "Calcário" },
+      "aliases": { "en": ["limestone gray", "rock earth"], "pt": ["calcario", "pedra clara"] }
+    },
+    {
+      "id": "granite_dust",
+      "hex": "#B8B8B8",
+      "names": { "en": "Granite Dust", "pt": "Pó de Granito" },
+      "aliases": { "en": ["granite gray", "stone dust"], "pt": ["granito", "cinza pedra"] }
+    },
+    {
+      "id": "volcanic_ash",
+      "hex": "#4A4A4A",
+      "names": { "en": "Volcanic Ash Soil", "pt": "Solo de Cinza Vulcânica" },
+      "aliases": { "en": ["volcanic soil", "ash gray earth"], "pt": ["cinza vulcanica", "terra vulcanica"] }
+    },
+    {
+      "id": "prairie_gold",
+      "hex": "#DAA520",
+      "names": { "en": "Prairie Gold", "pt": "Ouro da Pradaria" },
+      "aliases": { "en": ["prairie grass gold", "dry grass gold"], "pt": ["pradaria", "dourado capim"] }
+    },
+    {
+      "id": "marsh_green",
+      "hex": "#556B2F",
+      "names": { "en": "Marsh Green", "pt": "Verde do Pântano" },
+      "aliases": { "en": ["marsh grass", "wetland green"], "pt": ["pantano", "verde pantano"] }
+    }
+  ]
+}

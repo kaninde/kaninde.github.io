@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 2,
+  "catalogId": "pcls.colors.frutas_tropicais",
+  "catalogVersion": 1,
+  "defaultLocale": "en",
+  "name": "Tropical Fruits",
+  "entries": [
+    {
+      "id": "mango_alphonso",
+      "hex": "#FFB347",
+      "names": { "en": "Alphonso Mango", "pt": "Manga Alphonso" },
+      "aliases": { "en": ["mango orange", "tropical mango"], "pt": ["manga", "laranja manga"] }
+    },
+    {
+      "id": "papaya_sunrise",
+      "hex": "#FF7F50",
+      "names": { "en": "Sunrise Papaya", "pt": "Mamão Nascer do Sol" },
+      "aliases": { "en": ["papaya coral", "orange papaya"], "pt": ["mamao", "coral mamao"] }
+    },
+    {
+      "id": "pineapple_gold",
+      "hex": "#FFD700",
+      "names": { "en": "Golden Pineapple", "pt": "Abacaxi Dourado" },
+      "aliases": { "en": ["pineapple yellow", "tropical gold"], "pt": ["abacaxi", "amarelo abacaxi"] }
+    },
+    {
+      "id": "passion_fruit",
+      "hex": "#6A0DAD",
+      "names": { "en": "Passion Fruit", "pt": "Maracujá" },
+      "aliases": { "en": ["maracuja purple", "passion purple"], "pt": ["maracuja", "roxo maracuja"] }
+    },
+    {
+      "id": "passion_pulp",
+      "hex": "#F4D03F",
+      "names": { "en": "Passion Pulp", "pt": "Polpa de Maracujá" },
+      "aliases": { "en": ["passion yellow", "pulp gold"], "pt": ["polpa maracuja", "amarelo polpa"] }
+    },
+    {
+      "id": "acai_deep",
+      "hex": "#4B0082",
+      "names": { "en": "Açaí Deep", "pt": "Açaí Profundo" },
+      "aliases": { "en": ["acai purple", "amazon berry"], "pt": ["acai", "roxo acai"] }
+    },
+    {
+      "id": "acai_bowl",
+      "hex": "#7B3F9E",
+      "names": { "en": "Açaí Bowl", "pt": "Tigela de Açaí" },
+      "aliases": { "en": ["acai bowl purple", "frozen acai"], "pt": ["tigela acai", "acai cremoso"] }
+    },
+    {
+      "id": "guava_pink",
+      "hex": "#FF6F91",
+      "names": { "en": "Pink Guava", "pt": "Goiaba Rosa" },
+      "aliases": { "en": ["guava pink", "tropical guava"], "pt": ["goiaba", "rosa goiaba"] }
+    },
+    {
+      "id": "coconut_milk",
+      "hex": "#FFF8F0",
+      "names": { "en": "Coconut Milk", "pt": "Leite de Coco" },
+      "aliases": { "en": ["coconut white", "tropical cream"], "pt": ["coco", "branco coco"] }
+    },
+    {
+      "id": "coconut_husk",
+      "hex": "#8B5A2B",
+      "names": { "en": "Coconut Husk", "pt": "Casca de Coco" },
+      "aliases": { "en": ["coconut brown", "husk fiber"], "pt": ["casca coco", "marrom coco"] }
+    },
+    {
+      "id": "banana_ripe",
+      "hex": "#FFE135",
+      "names": { "en": "Ripe Banana", "pt": "Banana Madura" },
+      "aliases": { "en": ["banana yellow", "plantain ripe"], "pt": ["banana", "amarelo banana"] }
+    },
+    {
+      "id": "banana_green",
+      "hex": "#9ACD32",
+      "names": { "en": "Green Banana", "pt": "Banana Verde" },
+      "aliases": { "en": ["unripe banana", "green plantain"], "pt": ["banana verde", "verde banana"] }
+    },
+    {
+      "id": "pitanga",
+      "hex": "#C41E3A",
+      "names": { "en": "Surinam Cherry", "pt": "Pitanga" },
+      "aliases": { "en": ["pitanga red", "surinam cherry"], "pt": ["pitanga", "vermelho pitanga"] }
+    },
+    {
+      "id": "jabuticaba",
+      "hex": "#2C0A3D",
+      "names": { "en": "Jabuticaba", "pt": "Jabuticaba" },
+      "aliases": { "en": ["brazilian grape", "dark purple fruit"], "pt": ["jabuticaba", "roxo jabuticaba"] }
+    },
+    {
+      "id": "caju_fruit",
+      "hex": "#FFBF00",
+      "names": { "en": "Cashew Fruit", "pt": "Caju" },
+      "aliases": { "en": ["cashew apple", "caju yellow"], "pt": ["caju", "amarelo caju"] }
+    },
+    {
+      "id": "cupuacu",
+      "hex": "#F5DEB3",
+      "names": { "en": "Cupuaçu Cream", "pt": "Cupuaçu" },
+      "aliases": { "en": ["cupuacu beige", "amazon cream"], "pt": ["cupuacu", "creme cupuacu"] }
+    },
+    {
+      "id": "graviola",
+      "hex": "#90EE90",
+      "names": { "en": "Soursop Green", "pt": "Graviola" },
+      "aliases": { "en": ["soursop", "graviola green"], "pt": ["graviola", "verde graviola"] }
+    },
+    {
+      "id": "acerola",
+      "hex": "#FF4040",
+      "names": { "en": "Acerola Cherry", "pt": "Acerola" },
+      "aliases": { "en": ["acerola red", "barbados cherry"], "pt": ["acerola", "vermelho acerola"] }
+    },
+    {
+      "id": "carambola",
+      "hex": "#F0E68C",
+      "names": { "en": "Starfruit", "pt": "Carambola" },
+      "aliases": { "en": ["carambola yellow", "star fruit"], "pt": ["carambola", "amarelo carambola"] }
+    },
+    {
+      "id": "lichia",
+      "hex": "#FFB6C1",
+      "names": { "en": "Lychee Blush", "pt": "Lichia" },
+      "aliases": { "en": ["lychee pink", "tropical lychee"], "pt": ["lichia", "rosa lichia"] }
+    },
+    {
+      "id": "dragon_fruit",
+      "hex": "#FF007F",
+      "names": { "en": "Dragon Fruit", "pt": "Pitaya" },
+      "aliases": { "en": ["pitaya pink", "dragon fruit magenta"], "pt": ["pitaya", "rosa pitaya"] }
+    },
+    {
+      "id": "dragon_white",
+      "hex": "#F8F8FF",
+      "names": { "en": "White Dragon Fruit", "pt": "Pitaya Branca" },
+      "aliases": { "en": ["white pitaya", "dragon white"], "pt": ["pitaya branca", "branco pitaya"] }
+    },
+    {
+      "id": "tamarind",
+      "hex": "#8B4513",
+      "names": { "en": "Tamarind Brown", "pt": "Tamarindo" },
+      "aliases": { "en": ["tamarind pulp", "brown tropical"], "pt": ["tamarindo", "marrom tamarindo"] }
+    },
+    {
+      "id": "genipap",
+      "hex": "#1C2833",
+      "names": { "en": "Genipap Ink", "pt": "Jenipapo" },
+      "aliases": { "en": ["genipap blue black", "jenipapo"], "pt": ["jenipapo", "tinta jenipapo"] }
+    },
+    {
+      "id": "umbu",
+      "hex": "#FFA500",
+      "names": { "en": "Umbu", "pt": "Umbu" },
+      "aliases": { "en": ["umbu orange", "sertao fruit"], "pt": ["umbu", "laranja umbu"] }
+    },
+    {
+      "id": "mangaba",
+      "hex": "#FFDAB9",
+      "names": { "en": "Mangaba", "pt": "Mangaba" },
+      "aliases": { "en": ["mangaba cream", "cerrado fruit"], "pt": ["mangaba", "creme mangaba"] }
+    },
+    {
+      "id": "pinha",
+      "hex": "#F5FFFA",
+      "names": { "en": "Sugar Apple", "pt": "Pinha" },
+      "aliases": { "en": ["custard apple white", "pinha cream"], "pt": ["pinha", "ata", "fruta do conde"] }
+    },
+    {
+      "id": "maracuja_bark",
+      "hex": "#8B7355",
+      "names": { "en": "Passion Vine Bark", "pt": "Casca de Maracujazeiro" },
+      "aliases": { "en": ["passion fruit vine", "brown bark"], "pt": ["maracujazeiro", "casca maracuja"] }
+    }
+  ]
+}
