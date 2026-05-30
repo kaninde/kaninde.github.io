@@ -1,6 +1,6 @@
 # Termos e Condições de Uso – Pocket Color Lighting Studio (PCLS)
 
-Última atualização: 18 de maio de 2026
+Última atualização: 29 de maio de 2026
 
 ---
 
@@ -29,12 +29,14 @@ O Aplicativo destina-se a uso **pessoal e não comercial**, salvo autorização 
 
 Você é responsável por:
 
-- A **exatidão** dos códigos de cor, nomes de predefinições e rótulos personalizados nos catálogos;
-- **Decisões criativas, de produção ou de saúde** baseadas nas cores no ecrã — são **aproximações** e dependem do display do dispositivo;
+- A **exatidão** dos códigos de cor, nomes de predefinições, rótulos personalizados nos catálogos e dados introduzidos no Paint Mix;
+- **Decisões criativas, de produção ou de saúde** baseadas nas cores no ecrã ou nas receitas Paint Mix — cores exibidas e misturas previstas são **aproximações** e dependem do display do dispositivo, dos pigmentos e das condições;
 - **Uso seguro** do brilho em ecrã inteiro (fadiga visual, fotossensibilidade, uso ao conduzir ou operar máquinas);
-- **Ficheiros** de catálogo importados ou sincronizados: você escolhe o que carregar; fontes desconhecidas podem sobrescrever dados locais.
+- **Ficheiros** de backup ZIP importados, catálogos sincronizados ou conteúdo de terceiros: você escolhe o que carregar; fontes desconhecidas podem sobrescrever dados locais.
 
-O Aplicativo **não** substitui colorímetros profissionais, monitores calibrados nem equipamento de iluminação médica ou fotográfica regulamentado. Você é responsável pelo cumprimento das leis aplicáveis e normas profissionais ao usar o Aplicativo.
+O Aplicativo **não** substitui colorímetros profissionais, monitores calibrados, especificações de fabricantes de tinta nem equipamento de iluminação médica ou fotográfica regulamentado. As receitas Paint Mix são **estimativas** apenas para referência; teste sempre numa amostra e siga as orientações do fabricante para trabalho real com tinta.
+
+Você é responsável pelo cumprimento das leis aplicáveis e normas profissionais ao usar o Aplicativo.
 
 ---
 
@@ -46,13 +48,13 @@ Recursos opcionais podem ligar-se a URLs de **terceiros** (por exemplo JSON remo
 
 ## 6. Isenção de garantias
 
-O Aplicativo é fornecido **“no estado em que se encontra”** e **“conforme disponível”**. Não garantimos disponibilidade ininterrupta, exatidão de cor em todos os dispositivos nem que o Aplicativo satisfaça todas as expectativas.
+O Aplicativo é fornecido **“no estado em que se encontra”** e **“conforme disponível”**. Não garantimos disponibilidade ininterrupta, exatidão de cor em todos os dispositivos, correspondência exata de tinta nem que o Aplicativo satisfaça todas as expectativas.
 
 ---
 
 ## 7. Limitação de responsabilidade
 
-Na máxima extensão permitida por lei, não somos responsáveis por danos indiretos ou consequenciais decorrentes do uso do Aplicativo, incluindo confiança em cores no ecrã, simulações Kelvin, valores de predefinições ou dados de fontes de terceiros.
+Na máxima extensão permitida por lei, não somos responsáveis por danos indiretos ou consequenciais decorrentes do uso do Aplicativo, incluindo confiança em cores no ecrã, simulações Kelvin, valores de predefinições, receitas Paint Mix, dados restaurados de backup ou dados de fontes de terceiros.
 
 ---
 
@@ -66,7 +68,7 @@ Se o Aplicativo oferecer funções pagas, as compras estão sujeitas aos termos 
 
 Marcas, software e design do Aplicativo estão protegidos por leis de propriedade intelectual. Não pode copiar ou redistribuir o Aplicativo ou ativos proprietários sem autorização.
 
-Catálogos de nomes de cores e predefinições incluídos podem conter dados compilados para o Aplicativo; predefinições e entradas personalizadas que criar são da sua responsabilidade quanto a direitos de terceiros nos nomes que atribuir.
+Catálogos de nomes de cores e predefinições incluídos podem conter dados compilados para o Aplicativo; predefinições, entradas personalizadas e registos Paint Mix guardados que criar são da sua responsabilidade quanto a direitos de terceiros nos nomes que atribuir.
 
 ---
 

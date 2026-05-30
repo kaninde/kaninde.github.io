@@ -1,6 +1,6 @@
 # Política de Privacidade – Pocket Color Lighting Studio (PCLS)
 
-Última atualização: 18 de maio de 2026
+Última atualização: 29 de maio de 2026
 
 ---
 
@@ -18,8 +18,8 @@ Estamos comprometidos em proteger a sua privacidade e ser transparentes sobre o 
 
 ### 2.1 Armazenamento local
 
-- O Aplicativo foi concebido para que o **conteúdo principal** — incluindo **histórico de cores**, **predefinições de iluminação** que guardar, entradas de **catálogos de cores** (incluídos e adicionados por si), **índices de pesquisa** de catálogos, **definições da app** (idioma, tema, preferências) e registos relacionados — fique armazenado **localmente** no dispositivo (por exemplo numa base de dados SQLite local).
-- Quando disponível, pode **eliminar** cores personalizadas nos catálogos ou predefinições, limpar o histórico ou remover dados ao desinstalar o Aplicativo.
+- O Aplicativo foi concebido para que o **conteúdo principal** — incluindo **histórico de cores**, **predefinições de iluminação** que guardar (incluindo **favoritos**), entradas de **catálogos de cores** (incluídos e adicionados por si), **índices de pesquisa** de catálogos, **receitas Paint Mix guardadas e histórico**, **definições da app** (idioma, tema, preferências) e registos relacionados — fique armazenado **localmente** no dispositivo (por exemplo numa base de dados SQLite local).
+- Quando disponível, pode **exportar** uma cópia de segurança estruturada (tipicamente **ZIP** com manifesto) na área Dados, **importar** uma cópia compatível, **eliminar** cores personalizadas nos catálogos ou predefinições, limpar o histórico ou remover dados ao desinstalar o Aplicativo.
 
 ### 2.2 Contas
 
@@ -28,7 +28,7 @@ Estamos comprometidos em proteger a sua privacidade e ser transparentes sobre o 
 ### 2.3 Dados que não tratamos como nuvem de cores
 
 - O PCLS **não** é um serviço profissional de gestão de cor ou calibração de estúdio e **não** opera uma nuvem central cujo objetivo seja armazenar toda a sua biblioteca de cores em **servidores nossos** no uso quotidiano normal.
-- Quando usa **partilha**, **exportação** (por exemplo imagens de comparação Kelvin) ou abre um ficheiro, o conteúdo passa pelo sistema operativo **do seu** dispositivo, sob **o seu** controlo.
+- Quando usa **partilha**, **exportação** (por exemplo imagens de comparação Kelvin ou ficheiros ZIP de backup da base de dados) ou abre um ficheiro, o conteúdo passa pelo sistema operativo **do seu** dispositivo, sob **o seu** controlo.
 
 ### 2.4 Uso de rede (loja, anúncios, conteúdo remoto opcional)
 
@@ -37,6 +37,7 @@ Com conectividade, o Aplicativo pode ligar-se à internet, por exemplo para:
 - **Compras na app / subscrições:** processadas pela **Google Play** ou **App Store** da Apple, nos respetivos termos e políticas.
 - **Publicidade (se ativa):** SDKs de anúncios podem processar **sinais do dispositivo e de uso** conforme as políticas deles.
 - **Sincronização opcional de catálogos ou JSON remoto:** para verificar pacotes ou configuração de catálogos de cores em URLs de **terceiros** incluídas na compilação.
+- **Carrossel opcional de outras apps:** pode ser obtida uma configuração JSON remota leve para mostrar outras apps do programador; esses pedidos vão para quem opera esse hospedeiro.
 - **Ajuda opcional de tradução:** quando ativa, texto curto (por exemplo uma pesquisa de nome de cor) pode ser enviado a um serviço de **tradução de terceiros**; consulte a política desse fornecedor.
 - Abrir **documentação**, **suporte** ou ligações da **loja**.
 
@@ -46,7 +47,7 @@ Conforme a plataforma, o Aplicativo pode pedir, entre outras:
 
 - **Internet:** anúncios, faturação, sincronização opcional de catálogos, tradução opcional ou ligações externas.
 - **Manter ecrã ligado / wake lock (Painel de luz):** para o ecrã permanecer aceso durante o uso do painel.
-- **Ficheiros / armazenamento (conforme o SO):** **exportar** ou **partilhar** imagens quando essas funções existirem.
+- **Ficheiros / armazenamento (conforme o SO):** **exportar**, **importar** ou **partilhar** imagens e ficheiros de backup quando essas funções existirem.
 
 O Aplicativo não acede a estes recursos sem **ação sua** quando o sistema exige consentimento explícito.
 
@@ -56,22 +57,22 @@ O Aplicativo não acede a estes recursos sem **ação sua** quando o sistema exi
 
 Os dados locais são usados para:
 
-- Executar **Painel de luz**, **Simulador Kelvin**, **Predefinições**, **Catálogos de cores**, **histórico de cores** e **definições**;
+- Executar **Painel de luz**, **Simulador Kelvin**, **Predefinições**, **Catálogos de cores**, **Paint Mix**, **histórico Paint Mix**, **histórico de cores**, **cópia de segurança de dados** e **definições**;
 - Alimentar a **pesquisa em catálogos** (nomes, aliases, análise HEX/RGB/CMYK);
 - Aplicar **atualizações opcionais de catálogos** quando sincronizar;
 - Mostrar **anúncios** ou fluxos **premium** quando habilitados na compilação.
 
-**Não** usamos as suas escolhas de cor ou rótulos personalizados para criar um perfil publicitário **do nosso lado**; redes de anúncios de terceiros podem processar dados conforme **as** políticas deles.
+**Não** usamos as suas escolhas de cor, rótulos personalizados ou receitas Paint Mix guardadas para criar um perfil publicitário **do nosso lado**; redes de anúncios de terceiros podem processar dados conforme **as** políticas deles.
 
 ---
 
 ## 4. Partilha de dados
 
 - **Não vendemos** as suas informações pessoais.
-- O **conteúdo local de cores e predefinições** não é enviado para **os nossos** servidores no fluxo local descrito acima.
+- O **conteúdo local de cores, predefinições e Paint Mix** não é enviado para **os nossos** servidores no fluxo local descrito acima.
 - **Lojas de aplicativos**, **redes de anúncios**, **fornecedores de tradução** e **hospedeiros de URLs remotas** que aceder podem tratar dados conforme **as** políticas deles.
 
-Partilha de imagens exportadas ou capturas ocorre apenas quando **você** inicia partilha, exportação ou cópia.
+Partilha de imagens exportadas, ficheiros ZIP de backup ou capturas ocorre apenas quando **você** inicia partilha, exportação ou cópia.
 
 ---
 
@@ -84,7 +85,7 @@ O Aplicativo pode depender de terceiros, incluindo publicidade, pagamentos na lo
 ## 6. Retenção e eliminação
 
 - Os dados locais permanecem no dispositivo até os apagar ou desinstalar o Aplicativo.
-- Pode **limpar histórico** ou **remover entradas e predefinições** quando existirem opções no app.
+- Pode **limpar histórico**, **remover entradas e predefinições** ou **apagar todos os dados** quando existirem opções no app.
 - Desinstalar normalmente **remove permanentemente** as bases de dados locais.
 
 ---
@@ -117,4 +118,4 @@ Podemos atualizar esta Política periodicamente. A data de “Última atualizaç
 
 ## 11. Aviso legal
 
-O Aplicativo é fornecido **“no estado em que se encontra”**. As cores no ecrã são **aproximações**. Você é responsável pelo conforto visual, uso seguro do brilho em ambientes escuros e por quaisquer requisitos profissionais ou de saúde ao usar o Aplicativo como fonte de luz ou referência de cor.
+O Aplicativo é fornecido **“no estado em que se encontra”**. As cores no ecrã e as previsões de Paint Mix são **aproximações**. Você é responsável pelo conforto visual, uso seguro do brilho em ambientes escuros e por quaisquer requisitos profissionais ou de saúde ao usar o Aplicativo como fonte de luz, referência de cor ou guia de mistura de tinta.
