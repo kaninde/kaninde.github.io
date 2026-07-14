@@ -1,23 +1,52 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Site</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            padding: 50px;
-            background-color: #f4f4f4;
-        }
-        h1 {
-            color: #333;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>samir.tf — apps, projetos e atelier</title>
+  <meta name="description" content="Portfolio pessoal de Samir: apps mobile, projetos e notas sobre o que gosto de construir.">
+  <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
-    <h1>Bem-vindo ao Meu Site!</h1>
-    <p>Este site está hospedado no GitHub Pages.</p>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="/">samir.tf</a>
+      <nav class="nav" aria-label="Principal">
+        <a href="/projects/">Projetos</a> <a href="/about/">Sobre</a>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <section class="hero wrap" aria-label="Apresentação">
+      <div class="hero-grid">
+        <div>
+          <p class="eyebrow reveal-brand">atelier digital</p>
+          <h1 class="hero-brand reveal-brand">samir.tf</h1>
+          <div class="reveal-copy">
+            <p class="hero-headline">Apps offline-first, ferramentas úteis e experimentos no telemóvel.</p>
+            <p class="lede">Um canto para mostrar o que construo, o que me interessa e os projetos em andamento.</p>
+            <div class="cta-row">
+              <a class="btn btn-primary" href="/projects/">Ver projetos</a>
+              <a class="btn btn-ghost" href="/about/">Sobre mim</a>
+            </div>
+          </div>
+        </div>
+        <div class="hero-visual reveal-visual" role="img" aria-label="Painel visual abstrato do atelier">
+          <span class="hero-visual-label">grid · pulse · craft</span>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap">
+      <span>© samir.tf — atelier de apps</span>
+      <span>
+        <a href="/projects/">Projetos</a>
+        ·
+        <a href="/about/">Sobre</a>
+      </span>
+    </div>
+  </footer>
+  <script src="/assets/js/site.js"></script>
 </body>
 </html>

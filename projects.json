@@ -1,0 +1,384 @@
+{
+  "site": {
+    "brand": "samir.tf",
+    "title": "samir.tf — apps, projetos e atelier",
+    "lang": "pt"
+  },
+  "projects": [
+    {
+      "slug": "pms",
+      "folder": "pms",
+      "name": "Powerlifting Meet Strategy",
+      "tagline": "Planeja e corre competições de powerlifting no telemóvel — decisões táticas em segundos.",
+      "status": "publicado",
+      "icon_url": "https://play-lh.googleusercontent.com/hrF0Jq8w1V2KQkFRvAT1BfM-0leaA4LqJrlU2T9oAyxoOyW2ZAKMfcFTbNjCiH3eqw57K52INPVzUdrx6D61=s512-rw",
+      "google_play_app_id": "tf.samir.kaninde.flutter.pms",
+      "highlights": [
+        "Estratégia de tentativas por movimento no dia da prova",
+        "Timer e fluxos pensados para o ambiente de meet",
+        "Dados locais no dispositivo",
+        "Experiência offline no núcleo",
+        "Privacidade e limites claros no plano gratuito"
+      ],
+      "tags": [
+        "fitness",
+        "powerlifting"
+      ],
+      "legal": {
+        "about": "about_pms_pt.md",
+        "privacy": "privacy_policy_pms_pt.md",
+        "terms": "terms_and_conditions_pms_pt.md"
+      }
+    },
+    {
+      "slug": "smst",
+      "folder": "smst",
+      "name": "Social Media Safe Text: 1337",
+      "tagline": "Revisa e prepara textos antes de publicar nas redes — com uma camada a mais de cuidado.",
+      "status": "publicado",
+      "icon_url": "https://play-lh.googleusercontent.com/p0sqFViBA6vZGsrNIkk1bPxr-XF1iNs9wMaQaN85xQUl3FS6BGn0Iv11bo67xnVj2_R1W0u0X2MVIb1R_PMKv24%3Dw240-h480",
+      "google_play_app_id": "tf.samir.kaninde.flutter.smst",
+      "highlights": [
+        "Preparação de texto antes de postar",
+        "Transformações e estilos úteis (incl. 1337)",
+        "Fluxo rápido no telemóvel",
+        "Dados locais quando aplicável",
+        "Foco em privacidade no uso diário"
+      ],
+      "tags": [
+        "produtividade",
+        "redes sociais"
+      ],
+      "legal": {
+        "about": "about_smst_pt.md",
+        "privacy": "privacy_policy_smst_pt.md",
+        "terms": "terms_and_conditions_smst_pt.md"
+      }
+    },
+    {
+      "slug": "since-us",
+      "folder": "since_us",
+      "name": "Since Us: Relationship Counter",
+      "tagline": "Um contador e arquivo da história do casal — marcos, datas e memórias no bolso.",
+      "status": "publicado",
+      "icon_url": "https://play-lh.googleusercontent.com/QXC9NplH_i98o26yX2eafCa8_9UulVkPn75qd_X-JYr25uzl2xukQzJsObKOxdkOAlYOpLxqhoVwY9_GOcXL-A%3Dw240-h480",
+      "google_play_app_id": "tf.samir.kaninde.flutter.since_us",
+      "highlights": [
+        "Contagem desde o início da relação",
+        "Marcos e datas importantes",
+        "Experiência leve e pessoal",
+        "Dados no dispositivo",
+        "Privacidade em primeiro plano"
+      ],
+      "tags": [
+        "lifestyle",
+        "casais"
+      ],
+      "legal": {
+        "about": "about_since_us_pt.md",
+        "privacy": "privacy_policy_since_us_pt.md",
+        "terms": "terms_and_conditions_since_us_pt.md"
+      }
+    },
+    {
+      "slug": "speaker-cleaner",
+      "folder": "speaker_cleaner",
+      "name": "Speaker Cleaner Water Eject",
+      "tagline": "Sessões de áudio guiadas para manutenção rotineira dos altifalantes do dispositivo.",
+      "status": "publicado",
+      "icon_url": "https://play-lh.googleusercontent.com/yM38xrzEnI17V4CdrPCRkeOO0hQaQT9HjzGOvR27tm_jSymRUb_BA2bpDeyWUp1Nt-ftZftiKBmCNqLGrCWJ%3Dw240-h480",
+      "google_play_app_id": "tf.samir.kaninde.flutter.sc.speaker_cleaner",
+      "highlights": [
+        "Fluxo de limpeza guiado com progresso no ecrã",
+        "Verificação breve antes da sessão",
+        "Modos para poeira, humidade e passagem completa",
+        "Núcleo offline; rede só para anúncios/compras opcionais",
+        "Não repara hardware — expectativas claras"
+      ],
+      "tags": [
+        "utilitário",
+        "áudio"
+      ],
+      "legal": {
+        "about": "about_speaker_cleaner_pt.md",
+        "privacy": "privacy_policy_speaker_cleaner_pt.md",
+        "terms": "terms_and_conditions_speaker_cleaner_pt.md"
+      }
+    },
+    {
+      "slug": "pix-qr-code-generator",
+      "folder": "pix_qrcode_generator",
+      "name": "PIX QR Code Generator",
+      "tagline": "Gera e organiza QR Codes PIX a partir de chaves ou Copia e Cola — offline e simples.",
+      "status": "publicado",
+      "icon_url": "https://play-lh.googleusercontent.com/IacLyvLROGf0DnEY-P-Tq7U982q0t_e3nRtMEUPrBDnuQx9Ursy4T4WnEcTTimIR7Ho9toSKI4tLqtSOnQZt_g%3Dw240-h480",
+      "google_play_app_id": "tf.samir.kaninde.flutter.pqg.pix_qr_code_generator",
+      "highlights": [
+        "Geração de QR Code PIX com validação EMV",
+        "Histórico, contatos e chaves PIX",
+        "Minhas contas bancárias para acesso rápido",
+        "Funciona totalmente sem internet no núcleo",
+        "Premium: estatísticas, backup e histórico ilimitado"
+      ],
+      "tags": [
+        "finanças",
+        "PIX"
+      ],
+      "legal": {
+        "about": "about_pix_qrcode_generator_pt.md",
+        "privacy": "privacy_policy_pix_qrcode_generator_pt.md",
+        "terms": "terms_and_conditions_pix_qrcode_generator_pt.md"
+      }
+    },
+    {
+      "slug": "puppy-magic-ball",
+      "folder": "puppy-magic-ball",
+      "name": "Puppy Magic Ball: Yes or No",
+      "tagline": "Uma bola mágica divertida para decisões rápidas de sim ou não — leve e despretensiosa.",
+      "status": "publicado",
+      "icon_url": "https://play-lh.googleusercontent.com/dw6RBr1i0LtjMNrqQKIkx4EDeG8dSCni_kUed_4oARR1JSPtbxqzHok82WnsziF53qfWYTQchxVKEFt1lWWJrGk%3Dw240-h480",
+      "google_play_app_id": "tf.samir.kaninde.flutter.pmb.puppy_magic_ball",
+      "highlights": [
+        "Respostas instantâneas de sim ou não",
+        "Visuais fofos e clima leve",
+        "Interação com um toque",
+        "Funciona totalmente offline",
+        "Sem conta — abre e joga"
+      ],
+      "tags": [
+        "diversão",
+        "casual"
+      ],
+      "legal": {
+        "about": "about_puppy_magic_ball_pt.md",
+        "privacy": "privacy_policy_puppy_magic_ball_pt.md",
+        "terms": "terms_and_conditions_puppy_magic_ball_pt.md"
+      }
+    },
+    {
+      "slug": "ta-pago",
+      "folder": "tapago",
+      "name": "Ta Pago: Fitness Tracker!",
+      "tagline": "Check-in rápido de treinos para manter consistência e celebrar a disciplina.",
+      "status": "publicado",
+      "icon_url": "https://play-lh.googleusercontent.com/ZcGFuzHRdO5y3I38u-mC-fq_kPFMSfkhVFR4aTiXuwnj2vPQ33IF8KswDnDOeaPjPvOb_n0l1OkrtoShl_0l%3Dw240-h480",
+      "google_play_app_id": "tf.samir.kaninde.flutter.tapago.ta_pago",
+      "highlights": [
+        "Check-ins de treino com um toque",
+        "Acompanhamento de consistência semanal",
+        "Design minimalista e rápido",
+        "Funciona offline",
+        "Sem planos de exercício — foco em hábito"
+      ],
+      "tags": [
+        "fitness",
+        "hábitos"
+      ],
+      "legal": {
+        "about": "about_tapago_pt.md",
+        "privacy": "privacy_policy_tapago_pt.md",
+        "terms": "terms_and_conditions_tapago_pt.md"
+      }
+    },
+    {
+      "slug": "tasohumi",
+      "folder": "tasohumi",
+      "name": "Tasohumi: Economiza Mais",
+      "tagline": "Compara preço por unidade real — comprimento, volume ou peso — e mostra o melhor custo-benefício.",
+      "status": "publicado",
+      "icon_url": "https://play-lh.googleusercontent.com/StMEGAA-WsTaMrYzUFfOfOVR2qb-4J3UeMYZr4u3RRdSTeQvYI07vHwS4XV6DPMyJ2kC=s512-rw",
+      "google_play_app_id": "tf.samir.kaninde.flutter.tasohumi.tasohumi",
+      "highlights": [
+        "Comparação inteligente por preço por unidade",
+        "Destaques visuais do melhor custo-benefício",
+        "Unidades: comprimento, volume, peso, área e mais",
+        "Funciona offline",
+        "Ferramenta prática para poupar no supermercado"
+      ],
+      "tags": [
+        "finanças",
+        "economia"
+      ],
+      "legal": {
+        "about": "about_tasohumi_pt.md",
+        "privacy": "privacy_policy_tasohumi_pt.md",
+        "terms": "terms_and_conditions_tasohumi_pt.md"
+      }
+    },
+    {
+      "slug": "nutrisync",
+      "folder": "nutrisync",
+      "name": "NutriSync",
+      "tagline": "Controlo de estoque e pedidos para nutrição clínica — fórmulas, suplementos e alertas de consumo.",
+      "status": "publicado",
+      "icon_url": "https://play-lh.googleusercontent.com/BKv6GIQgxpqU3h4LKYf5Yl7GckuZpdImpH0XlOt1PEquYFwcvZ6uIcFmWgLm6Xqutw=s256-rw",
+      "google_play_app_id": "tf.samir.kaninde.kotlin.nutrisync",
+      "highlights": [
+        "Estoque de fórmulas enterais, suplementos e insumos por paciente",
+        "Geração automática de pedidos em PDF",
+        "Previsões e alertas de fim de produto",
+        "Trabalho offline com sincronização ao reconectar",
+        "Interface localizada em vários idiomas"
+      ],
+      "tags": [
+        "saúde",
+        "profissionais"
+      ],
+      "legal": {
+        "about": "about_nutrisync_pt.md",
+        "privacy": "privacy_policy_nutrisync_pt.md",
+        "terms": "terms_and_conditions_nutrisync_pt.md"
+      }
+    },
+    {
+      "slug": "convertool",
+      "folder": "convertool",
+      "name": "Convertool: unit conversion",
+      "tagline": "Conversões de unidades rápidas e precisas — comprimento, peso, volume, temperatura e mais.",
+      "status": "publicado",
+      "icon_url": "https://play-lh.googleusercontent.com/2f41EtAc61tBFBwPfZWLKxeDvF7nKWsQ0M77NTtDEmO-BUrgUYNWK89YfnW5H8AlDYaS%3Dw240-h480",
+      "google_play_app_id": "tf.samir.kaninde.kotlin.util.convertool",
+      "highlights": [
+        "Amplo suporte de unidades",
+        "Atualização em tempo real entre campos",
+        "Design intuitivo em cartões",
+        "Localização em vários idiomas",
+        "Uso diário sem atrito"
+      ],
+      "tags": [
+        "utilitário",
+        "conversão"
+      ],
+      "legal": {
+        "about": "about_convertool_pt.md",
+        "privacy": "privacy_policy_convertool_pt",
+        "terms": "terms_and_conditions_convertool_pt.md"
+      }
+    },
+    {
+      "slug": "pcls",
+      "folder": "pcls",
+      "name": "Pocket Color Lighting Studio",
+      "tagline": "Transforma o ecrã numa luz colorida, simula Kelvin e calcula misturas de tinta.",
+      "status": "docs",
+      "icon_url": "",
+      "google_play_app_id": "",
+      "highlights": [
+        "Painel de luz em ecrã inteiro com brilho",
+        "Simulador Kelvin (1900K–10000K)",
+        "Catálogos de cores multilíngues",
+        "Paint Mix com receitas físicas aproximadas",
+        "Dados locais; backup premium quando disponível"
+      ],
+      "tags": [
+        "criativo",
+        "cores"
+      ],
+      "legal": {
+        "about": "about_pcls_pt.md",
+        "privacy": "privacy_policy_pcls_pt.md",
+        "terms": "terms_and_conditions_pcls_pt.md"
+      }
+    },
+    {
+      "slug": "shelf-box-keeper",
+      "folder": "sbk",
+      "name": "Shelf & Box Keeper",
+      "tagline": "Inventário offline de caixas, ambientes e itens — encontra o que guardaste em segundos.",
+      "status": "docs",
+      "icon_url": "",
+      "google_play_app_id": "",
+      "highlights": [
+        "Hierarquia Local → Ambiente → Caixa → Item",
+        "Busca global offline",
+        "QR Codes por caixa e empréstimos",
+        "Fotos, etiquetas e histórico de movimentações",
+        "Exportar/importar backup (premium)"
+      ],
+      "tags": [
+        "organização",
+        "offline"
+      ],
+      "legal": {
+        "about": "about_sbk_pt.md",
+        "privacy": "privacy_policy_sbk_pt.md",
+        "terms": "terms_and_conditions_sbk_pt.md"
+      }
+    },
+    {
+      "slug": "stpm",
+      "folder": "stpm",
+      "name": "SafeText: Private Messages",
+      "tagline": "Camada extra de privacidade para mensagens que já usas no dia a dia.",
+      "status": "docs",
+      "icon_url": "",
+      "google_play_app_id": "",
+      "highlights": [
+        "Proteção extra para textos sensíveis",
+        "Fluxo pensado para conversas existentes",
+        "Privacidade no núcleo",
+        "Uso local no dispositivo",
+        "Expectativas claras sobre o que a app faz e não faz"
+      ],
+      "tags": [
+        "privacidade",
+        "mensagens"
+      ],
+      "legal": {
+        "about": "about_stpm_pt.md",
+        "privacy": "privacy_policy_stpm_pt.md",
+        "terms": "terms_and_conditions_stpm_pt.md"
+      }
+    },
+    {
+      "slug": "wlt",
+      "folder": "wlt",
+      "name": "WiseLend Tracker",
+      "tagline": "Acompanha o que emprestas e o que deves — gestão pessoal de empréstimos no telemóvel.",
+      "status": "docs",
+      "icon_url": "",
+      "google_play_app_id": "",
+      "highlights": [
+        "Registo de empréstimos pessoais",
+        "Acompanhamento do que emprestas e deves",
+        "Visão clara de saldos e prazos",
+        "Dados no dispositivo",
+        "Privacidade no centro do produto"
+      ],
+      "tags": [
+        "finanças",
+        "empréstimos"
+      ],
+      "legal": {
+        "about": "about_wlt_pt.md",
+        "privacy": "privacy_policy_wlt_pt.md",
+        "terms": "terms_and_conditions_wlt_pt.md"
+      }
+    },
+    {
+      "slug": "tailorbook-pro",
+      "folder": "tailorbookpro",
+      "name": "TailorBook Pro",
+      "tagline": "Organiza o ateliê de alfaiataria: clientes, medidas, pedidos e agenda no telemóvel.",
+      "status": "docs",
+      "icon_url": "",
+      "google_play_app_id": "",
+      "highlights": [
+        "Clientes e medidas num só lugar",
+        "Pedidos e acompanhamento do ateliê",
+        "Fluxo pensado para alfaiates",
+        "Dados locais no dispositivo",
+        "Ferramenta prática para o dia a dia do estúdio"
+      ],
+      "tags": [
+        "negócios",
+        "alfaiataria"
+      ],
+      "legal": {
+        "about": "about_tailorbookpro_pt.md",
+        "privacy": "privacy_policy_tailorbookpro_pt.md",
+        "terms": "terms_and_conditions_tailorbookpro_pt.md"
+      }
+    }
+  ]
+}
